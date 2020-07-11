@@ -1,0 +1,4065 @@
+[
+    {
+        "ady" : "Abhaziýa",
+        "paytagt" : "Suhumi",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Abhaz we Rus dilleri",
+        "ilat" : "245.246",
+        "meydan" : "8.660",
+        "telefonKodu" : "+7(840)",
+        "pul" : "Rus Rubleýi (RUB)",
+        "yurtKodu" : "ABH",
+        "internet" : ".ru",
+        "latLang" : {
+            "latitude" : 42.9872326,
+            "langitude" : 40.5183439
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/abh.jpg?raw=true"
+    },
+    {
+        "ady" : "Aland Adalary",
+        "paytagt" : "Mariehamn",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Şwesiýa dili",
+        "ilat" : "28.007",
+        "meydan" : "1.580",
+        "telefonKodu" : "+358",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "ALA",
+        "internet" : ".ax",
+        "latLang" : {
+            "latitude" : 60.258878,
+            "langitude" : 19.2272767
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ala.jpg?raw=true"
+    },
+    {
+        "ady" : "Albaniýa",
+        "paytagt" : "Tirana",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Alban dili",
+        "ilat" : "2.877.797",
+        "meydan" : "28.748",
+        "telefonKodu" : "+355",
+        "pul" : "Alban Leki (ALL)",
+        "yurtKodu" : "ALB",
+        "internet" : ".al",
+        "latLang" : {
+            "latitude" : 41.1311833,
+            "langitude" : 17.8461579
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/alb.jpg?raw=true"
+    },
+    {
+        "ady" : "Alžir",
+        "paytagt" : "Alžir",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Arap we Berber dilleri",
+        "ilat" : "43.851.044",
+        "meydan" : "2.382.000",
+        "telefonKodu" : "+213",
+        "pul" : "Alžir Dinary (DZD)",
+        "yurtKodu" : "DZA",
+        "internet" : ".dz",
+        "latLang" : {
+            "latitude" : 27.7998517,
+            "langitude" : -7.3516362
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/dza.jpg?raw=true"
+    },
+    {
+        "ady" : "Amerikanyň Birleşen Ştatlary",
+        "paytagt" : "Waşington D.C.",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "331.002.651",
+        "meydan" : "9.834.000",
+        "telefonKodu" : "+1",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "USA",
+        "internet" : ".us",
+        "latLang" : {
+            "latitude" : 36.2104063,
+            "langitude" : -113.7236071
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/usa.jpg?raw=true"
+    },
+    {
+        "ady" : "Amerikan Samoasy",
+        "paytagt" : "Pago Pago",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis we Samoa dilleri",
+        "ilat" : "198.414",
+        "meydan" : "199",
+        "telefonKodu" : "+1(684)",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "ASM",
+        "internet" : ".as",
+        "latLang" : {
+            "latitude" : -14.2796906,
+            "langitude" : -170.7815546
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/asm.jpg?raw=true"
+    },
+    {
+        "ady" : "Andorra",
+        "paytagt" : "Andorra la Wella",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Katalan dili",
+        "ilat" : "77.265",
+        "meydan" : "468",
+        "telefonKodu" : "+376",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "AND",
+        "internet" : ".ad",
+        "latLang" : {
+            "latitude" : 42.5419286,
+            "langitude" : 1.3174887
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/and.jpg?raw=true"
+    },
+    {
+        "ady" : "Angliýa",
+        "paytagt" : "London",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Iňlis dili",
+        "ilat" : "56.286.961",
+        "meydan" : "130.395",
+        "telefonKodu" : "+44",
+        "pul" : "Iňlis Funty (GBP)",
+        "yurtKodu" : "ENG",
+        "internet" : ".uk",
+        "latLang" : {
+            "latitude" : 52.7535702,
+            "langitude" : -6.8129301
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/eng.jpg?raw=true"
+    },
+    {
+        "ady" : "Angola",
+        "paytagt" : "Luanda",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Portugal dili",
+        "ilat" : "32.866.272",
+        "meydan" : "1.247.000",
+        "telefonKodu" : "+244",
+        "pul" : "Angola Kwanzasy (AOA)",
+        "yurtKodu" : "AGO",
+        "internet" : ".ao",
+        "latLang" : {
+            "latitude" : -11.077671,
+            "langitude" : 8.7356757
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ago.jpg?raw=true"
+    },
+    {
+        "ady" : "Anguilla",
+        "paytagt" : "The Walley",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "15.003",
+        "meydan" : "91",
+        "telefonKodu" : "+1(264)",
+        "pul" : "Gündogar Karib Dollary (XCD)",
+        "yurtKodu" : "AIA",
+        "internet" : ".ai",
+        "latLang" : {
+            "latitude" : 18.193663,
+            "langitude" : -63.4728154
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/aia.jpg?raw=true"
+    },
+    {
+        "ady" : "Antigua we Barbuda",
+        "paytagt" : "Saint John's",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "97.929",
+        "meydan" : "440",
+        "telefonKodu" : "+1(268)",
+        "pul" : "Gündogar Karib Dollary (XCD)",
+        "yurtKodu" : "ATG",
+        "internet" : ".ag",
+        "latLang" : {
+            "latitude" : 17.3663384,
+            "langitude" : -61.9937663
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/atg.jpg?raw=true"
+    },
+    {
+        "ady" : "Argentina",
+        "paytagt" : "Buenos Aýres",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "45.195.774",
+        "meydan" : "2.780.000",
+        "telefonKodu" : "+54",
+        "pul" : "Argentina Pesosy (ARS)",
+        "yurtKodu" : "ARG",
+        "internet" : ".ar",
+        "latLang" : {
+            "latitude" : -37.0544439,
+            "langitude" : -81.6426644
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/arg.jpg?raw=true"
+    },
+    {
+        "ady" : "Aruba",
+        "paytagt" : "Oranjestad",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Golland dili",
+        "ilat" : "106.766",
+        "meydan" : "180",
+        "telefonKodu" : "+297",
+        "pul" : "Aruba Floriny (AWG)",
+        "yurtKodu" : "ABW",
+        "internet" : ".aw",
+        "latLang" : {
+            "latitude" : 12.5183192,
+            "langitude" : -70.1073755
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/abw.jpg?raw=true"
+    },
+    {
+        "ady" : "Awstraliýa",
+        "paytagt" : "Kanberra",
+        "sebit" : "Awstraliýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "25.499.884",
+        "meydan" : "7.692.000",
+        "telefonKodu" : "+61",
+        "pul" : "Awstraliýa Dollary (AUD)",
+        "yurtKodu" : "AUS",
+        "internet" : ".au",
+        "latLang" : {
+            "latitude" : -27.3318922,
+            "langitude" : 120.0574516
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/aus.jpg?raw=true"
+    },
+    {
+        "ady" : "Awstriýa",
+        "paytagt" : "Wena",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Awstriýa we Nemes dilleri",
+        "ilat" : "9.006.398",
+        "meydan" : "83.879",
+        "telefonKodu" : "+43",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "AUT",
+        "internet" : ".au",
+        "latLang" : {
+            "latitude" : 47.4870428,
+            "langitude" : 11.5025553
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/aut.jpg?raw=true"
+    },
+    {
+        "ady" : "Azerbaýjan",
+        "paytagt" : "Baku",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Azerbaýjan dili",
+        "ilat" : "10.139.177",
+        "meydan" : "86.600",
+        "telefonKodu" : "+994",
+        "pul" : "Azerbaýjan Manady (AZN)",
+        "yurtKodu" : "AZE",
+        "internet" : ".az",
+        "latLang" : {
+            "latitude" : 40.4068528,
+            "langitude" : 46.0458366
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/aze.jpg?raw=true"
+    },
+    {
+        "ady" : "Bagamalar",
+        "paytagt" : "Nassau",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "393.244",
+        "meydan" : "13.878",
+        "telefonKodu" : "+1(242)",
+        "pul" : "Bahama Dollary (BSD)",
+        "yurtKodu" : "BAH",
+        "internet" : ".bs",
+        "latLang" : {
+            "latitude" : 24.4179158,
+            "langitude" : -78.2109553
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bhs.jpg?raw=true"
+    },
+    {
+        "ady" : "Bahreýn",
+        "paytagt" : "Manama",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "1.701.575",
+        "meydan" : "765.3",
+        "telefonKodu" : "+973",
+        "pul" : "Bahreýn Dinary (BHD)",
+        "yurtKodu" : "BRN",
+        "internet" : ".bh",
+        "latLang" : {
+            "latitude" : 26.0394333,
+            "langitude" : 50.2936518
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bhr.jpg?raw=true"
+    },
+    {
+        "ady" : "Bangladeş",
+        "paytagt" : "Dakka",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Bengal dili",
+        "ilat" : "164.689.383",
+        "meydan" : "147.570",
+        "telefonKodu" : "+880",
+        "pul" : "Bangladeş Takasy (BDT)",
+        "yurtKodu" : "BAN",
+        "internet" : ".bd",
+        "latLang" : {
+            "latitude" : 23.4905831,
+            "langitude" : 88.1002603
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bgd.jpg?raw=true"
+    },
+    {
+        "ady" : "Barbados",
+        "paytagt" : "Bridgetown",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "287.375",
+        "meydan" : "431",
+        "telefonKodu" : "+1(246)",
+        "pul" : "Barbados Dollary (BBD)",
+        "yurtKodu" : "BAR",
+        "internet" : ".bb",
+        "latLang" : {
+            "latitude" : 13.1881386,
+            "langitude" : -59.6753419
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/brb.jpg?raw=true"
+    },
+    {
+        "ady" : "Belarus",
+        "paytagt" : "Minsk",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Belarus we Rus dilleri",
+        "ilat" : "9.449.323",
+        "meydan" : "207.595",
+        "telefonKodu" : "+375",
+        "pul" : "Belarus Rubleýi (BYR)",
+        "yurtKodu" : "BLR",
+        "internet" : ".by",
+        "latLang" : {
+            "latitude" : 53.6330885,
+            "langitude" : 23.4928052
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/blr.jpg?raw=true"
+    },
+    {
+        "ady" : "Belgiýa",
+        "paytagt" : "Brýussel",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Golland, Fransuz we Nemes dilleri",
+        "ilat" : "11.589.623",
+        "meydan" : "30.689",
+        "telefonKodu" : "+32",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "BEL",
+        "internet" : ".be",
+        "latLang" : {
+            "latitude" : 50.643472,
+            "langitude" : 3.8293284
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bel.jpg?raw=true"
+    },
+    {
+        "ady" : "Belize",
+        "paytagt" : "Belmopan",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Iňlis we Ispan dilleri",
+        "ilat" : "397.628",
+        "meydan" : "22.965",
+        "telefonKodu" : "+501",
+        "pul" : "Belize Dollary (BZD)",
+        "yurtKodu" : "BIZ",
+        "internet" : ".bz",
+        "latLang" : {
+            "latitude" : 17.187682,
+            "langitude" : -89.4415223
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/blz.jpg?raw=true"
+    },
+    {
+        "ady" : "Benin",
+        "paytagt" : "Porto-Nowo",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "12.123.200",
+        "meydan" : "114.763",
+        "telefonKodu" : "+229",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "BEN",
+        "internet" : ".bj",
+        "latLang" : {
+            "latitude" : 9.3003396,
+            "langitude" : 0.0648461
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ben.jpg?raw=true"
+    },
+    {
+        "ady" : "Bermuda",
+        "paytagt" : "Hamilton",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "62.278",
+        "meydan" : "53.2",
+        "telefonKodu" : "+1(441)",
+        "pul" : "Bermuda Dollary (BMD)",
+        "yurtKodu" : "BER",
+        "internet" : ".bm",
+        "latLang" : {
+            "latitude" : 32.3192794,
+            "langitude" : -64.8364403
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bmu.jpg?raw=true"
+    },
+    {
+        "ady" : "Beýik Britaniýa",
+        "paytagt" : "London",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Iňlis dili",
+        "ilat" : "67.886.011",
+        "meydan" : "242.495",
+        "telefonKodu" : "+44",
+        "pul" : "Iňlis Funty (GBP)",
+        "yurtKodu" : "GBR",
+        "internet" : ".gb",
+        "latLang" : {
+            "latitude" : 54.2184924,
+            "langitude" : -13.4306024
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gbr.jpg?raw=true"
+    },
+    {
+        "ady" : "Birleşen Arap Emirlikleri",
+        "paytagt" : "Abu Dabi",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "9.890.402",
+        "meydan" : "83.600",
+        "telefonKodu" : "+971",
+        "pul" : "BAE Dirhemi (AED)",
+        "yurtKodu" : "UAE",
+        "internet" : ".ae",
+        "latLang" : {
+            "latitude" : 27.4700103,
+            "langitude" : 89.3145529
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/are.jpg?raw=true"
+    },
+    {
+        "ady" : "Bolgariýa",
+        "paytagt" : "Sofiýa",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Bolgar dili",
+        "ilat" : "6.948.445",
+        "meydan" : "110.994",
+        "telefonKodu" : "+359",
+        "pul" : "Bulgar Lewi (BGN)",
+        "yurtKodu" : "BUL",
+        "internet" : ".bg",
+        "latLang" : {
+            "latitude" : 42.4600787,
+            "langitude" : 23.4711716
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bgr.jpg?raw=true"
+    },
+    {
+        "ady" : "Boliwiýa",
+        "paytagt" : "Sukre",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan, Aymara we Keçua dilleri",
+        "ilat" : "11.673.021",
+        "meydan" : "1.099.000",
+        "telefonKodu" : "+591",
+        "pul" : "Boliwiýa Boliwianosy (BOB)",
+        "yurtKodu" : "BOL",
+        "internet" : ".bo",
+        "latLang" : {
+            "latitude" : -16.6501676,
+            "langitude" : -67.7263732
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bol.jpg?raw=true"
+    },
+    {
+        "ady" : "Bosniýa we Gersegowina",
+        "paytagt" : "Saraýewo",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Bosna, Horwat we Serb dilleri",
+        "ilat" : "3.280.819",
+        "meydan" : "51.197",
+        "telefonKodu" : "+387",
+        "pul" : "Konwertibyl Mark (BAM)",
+        "yurtKodu" : "BIH",
+        "internet" : ".ba",
+        "latLang" : {
+            "latitude" : 43.8946093,
+            "langitude" : 15.4299034
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bih.jpg?raw=true"
+    },
+    {
+        "ady" : "Botswana",
+        "paytagt" : "Gaboron",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Iňlis we Tswana dilleri",
+        "ilat" : "2.351.627",
+        "meydan" : "600.370",
+        "telefonKodu" : "+267",
+        "pul" : "Botswana Pulasy (BWP)",
+        "yurtKodu" : "BOT",
+        "internet" : ".bw",
+        "latLang" : {
+            "latitude" : -22.280834,
+            "langitude" : 20.1915668
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bwa.jpg?raw=true"
+    },
+    {
+        "ady" : "Braziliýa",
+        "paytagt" : "Braziliýa",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Portugal dili",
+        "ilat" : "212.559.417",
+        "meydan" : "8.516.000",
+        "telefonKodu" : "+55",
+        "pul" : "Braziliýa Realy (BRL)",
+        "yurtKodu" : "BRA",
+        "internet" : ".br",
+        "latLang" : {
+            "latitude" : -13.702797,
+            "langitude" : -69.6865109
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bra.jpg?raw=true"
+    },
+    {
+        "ady" : "Bruneý Darussalam",
+        "paytagt" : "Bandar Seri Begawan",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Malaý dili",
+        "ilat" : "437.479",
+        "meydan" : "5.765",
+        "telefonKodu" : "+673",
+        "pul" : "Bruneý Dollary (BND)",
+        "yurtKodu" : "BRU",
+        "internet" : ".bn",
+        "latLang" : {
+            "latitude" : 4.5499138,
+            "langitude" : 114.1590902
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/brn.jpg?raw=true"
+    },
+    {
+        "ady" : "Burkina Faso",
+        "paytagt" : "Wagadugu",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz we Fula dilleri",
+        "ilat" : "20.903.273",
+        "meydan" : "274.200",
+        "telefonKodu" : "+226",
+        "pul" : "Günbatar Afrika Franky (BBD)",
+        "yurtKodu" : "BUR",
+        "internet" : ".bf",
+        "latLang" : {
+            "latitude" : 12.1291189,
+            "langitude" : -3.6648795
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bfa.jpg?raw=true"
+    },
+    {
+        "ady" : "Burundi",
+        "paytagt" : "Bujumbura",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Fransuz we Kirundi dilleri",
+        "ilat" : "11.890.784",
+        "meydan" : "27.834",
+        "telefonKodu" : "+257",
+        "pul" : "Burundi Franky (BIF)",
+        "yurtKodu" : "BDI",
+        "internet" : ".bi",
+        "latLang" : {
+            "latitude" : -3.3888818,
+            "langitude" : 28.8038728
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/bdi.jpg?raw=true"
+    },
+    {
+        "ady" : "Butan",
+        "paytagt" : "Timphu",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Dzongka dili",
+        "ilat" : "771.608",
+        "meydan" : "38.394",
+        "telefonKodu" : "+975",
+        "pul" : "Butan Ngultrum (BTM)",
+        "yurtKodu" : "BHU",
+        "internet" : ".bt",
+        "latLang" : {
+            "latitude" : 27.4700103,
+            "langitude" : 89.3145529
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/btn.jpg?raw=true"
+    },
+    {
+        "ady" : "Çad",
+        "paytagt" : "Enjemine",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Fransuz we Arap dilleri",
+        "ilat" : "16.425.864",
+        "meydan" : "1.284.000",
+        "telefonKodu" : "+235",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "CHA",
+        "internet" : ".td",
+        "latLang" : {
+            "latitude" : 15.2631791,
+            "langitude" : 9.6933753
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tcd.jpg?raw=true"
+    },
+    {
+        "ady" : "Çehiýa",
+        "paytagt" : "Praga",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Çeh dili",
+        "ilat" : "10.708.981",
+        "meydan" : "78.866",
+        "telefonKodu" : "+420",
+        "pul" : "Çeh Korunasy (CZK)",
+        "yurtKodu" : "CZE",
+        "internet" : ".cz",
+        "latLang" : {
+            "latitude" : 49.8703928,
+            "langitude" : 13.7542733
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cze.jpg?raw=true"
+    },
+    {
+        "ady" : "Çernogoriýa (Garadag)",
+        "paytagt" : "Podgorisa",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Serb, Alban, Bosna we Horwat dilleri",
+        "ilat" : "628.066",
+        "meydan" : "13.812",
+        "telefonKodu" : "+382",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "MNE",
+        "internet" : ".me",
+        "latLang" : {
+            "latitude" : 42.6887549,
+            "langitude" : 18.2722619
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mne.jpg?raw=true"
+    },
+    {
+        "ady" : "Çili",
+        "paytagt" : "Santiago",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "19.116.201",
+        "meydan" : "756.950",
+        "telefonKodu" : "+56",
+        "pul" : "Çili Pesosy (CLP)",
+        "yurtKodu" : "CHI",
+        "internet" : ".cl",
+        "latLang" : {
+            "latitude" : -36.792118,
+            "langitude" : -77.5020085
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/chl.jpg?raw=true"
+    },
+    {
+        "ady" : "Daniýa",
+        "paytagt" : "Kopengagen",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Dan dili",
+        "ilat" : "5.792.202",
+        "meydan" : "42.933",
+        "telefonKodu" : "+45",
+        "pul" : "Daniýa Kronu (DKK)",
+        "yurtKodu" : "DEN",
+        "internet" : ".dk",
+        "latLang" : {
+            "latitude" : 56.2090534,
+            "langitude" : 9.3975414
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/dnk.jpg?raw=true"
+    },
+    {
+        "ady" : "Demirgazyk Irlandiýa",
+        "paytagt" : "Belfast",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Iňlis we Irland dilleri",
+        "ilat" : "1.893.667",
+        "meydan" : "14.130",
+        "telefonKodu" : "+44",
+        "pul" : "Iňlis Funty (GBP)",
+        "yurtKodu" : "NIR",
+        "internet" : ".uk",
+        "latLang" : {
+            "latitude" : 54.6626009,
+            "langitude" : -7.9231349
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nir.jpg?raw=true"
+    },
+    {
+        "ady" : "Demirgazyk Koreýa",
+        "paytagt" : "Phenýan",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Koreýa dili",
+        "ilat" : "25.778.816",
+        "meydan" : "120.538",
+        "telefonKodu" : "+850",
+        "pul" : "Demirgazyk Koreýa Wony (KPW)",
+        "yurtKodu" : "PRK",
+        "internet" : ".kp",
+        "latLang" : {
+            "latitude" : 40.2135478,
+            "langitude" : 122.9341875
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/prk.jpg?raw=true"
+    },
+    {
+        "ady" : "Demirgazyk Makedoniýa",
+        "paytagt" : "Skopýe",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Makedon dili",
+        "ilat" : "2.083.374",
+        "meydan" : "25.713",
+        "telefonKodu" : "+389",
+        "pul" : "Makedoniýa Denary (MKD)",
+        "yurtKodu" : "MKD",
+        "internet" : ".mk",
+        "latLang" : {
+            "latitude" : 41.4687487,
+            "langitude" : 19.5012865
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mkd.jpg?raw=true"
+    },
+    {
+        "ady" : "Demirgazyk Mariana Adalary",
+        "paytagt" : "Saipan",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis we Çamorro dilleri",
+        "ilat" : "57.559",
+        "meydan" : "477",
+        "telefonKodu" : "+1(670)",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "MNP",
+        "internet" : ".mp",
+        "latLang" : {
+            "latitude" : 17.3024466,
+            "langitude" : 143.2421174
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mnp.jpg?raw=true"
+    },
+    {
+        "ady" : "Dominika",
+        "paytagt" : "Roseau",
+        "sebit" : "Amerika, Karib Deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "71.293",
+        "meydan" : "751",
+        "telefonKodu" : "+1(767)",
+        "pul" : "Gündogar Karib Deňzi Dollary (XCD)",
+        "yurtKodu" : "DMA",
+        "internet" : ".dm",
+        "latLang" : {
+            "latitude" : 15.4263293,
+            "langitude" : -61.497592
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/dma.jpg?raw=true"
+    },
+    {
+        "ady" : "Dominika Respublikasy",
+        "paytagt" : "Santo Domingo",
+        "sebit" : "Amerika, Karib Deňzi",
+        "dil" : "Ispan dili",
+        "ilat" : "10.847.910",
+        "meydan" : "48.442",
+        "telefonKodu" : "+1(809,829,849)",
+        "pul" : "Dominik Pesosy (DOP)",
+        "yurtKodu" : "DOM",
+        "internet" : ".do",
+        "latLang" : {
+            "latitude" : 18.7851361,
+            "langitude" : -71.3832106
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/dom.jpg?raw=true"
+    },
+    {
+        "ady" : "Efiopiýa",
+        "paytagt" : "Addis Ababa",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Amhar dili",
+        "ilat" : "114.963.588",
+        "meydan" : "1.104.000",
+        "telefonKodu" : "+251",
+        "pul" : "Efiopiýa Birry (ETB)",
+        "yurtKodu" : "ETH",
+        "internet" : ".et",
+        "latLang" : {
+            "latitude" : 9.1214629,
+            "langitude" : 36.0007297
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/eth.jpg?raw=true"
+    },
+    {
+        "ady" : "Ekwador",
+        "paytagt" : "Kito",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "17.643.054",
+        "meydan" : "283.560",
+        "telefonKodu" : "+593",
+        "pul" : "Amerika Dollary (USD)",
+        "yurtKodu" : "ECU",
+        "internet" : ".ec",
+        "latLang" : {
+            "latitude" : -1.0620061,
+            "langitude" : -87.6690442
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ecu.jpg?raw=true"
+    },
+    {
+        "ady" : "Ekwatorial Gwineýa",
+        "paytagt" : "Malabo",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Ispan we Fransuz dilleri",
+        "ilat" : "1.402.985",
+        "meydan" : "28.050",
+        "telefonKodu" : "+240",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "GEQ",
+        "internet" : ".gq",
+        "latLang" : {
+            "latitude" : 1.7144167,
+            "langitude" : 8.947132
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gnq.jpg?raw=true"
+    },
+    {
+        "ady" : "El Salwador",
+        "paytagt" : "San Salwador",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "6.486.205",
+        "meydan" : "21.041",
+        "telefonKodu" : "+503",
+        "pul" : "Amerika Dollary (USD)",
+        "yurtKodu" : "ESA",
+        "internet" : ".sv",
+        "latLang" : {
+            "latitude" : 14.0681882,
+            "langitude" : -90.6505548
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/slv.jpg?raw=true"
+    },
+    {
+        "ady" : "Eritreýa",
+        "paytagt" : "Asmara",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Tigrinýa, Iňlis we Arap dilleri",
+        "ilat" : "3.546.421",
+        "meydan" : "117.598",
+        "telefonKodu" : "+291",
+        "pul" : "Eritreýa Nakfasy (ERN)",
+        "yurtKodu" : "ERI",
+        "internet" : ".er",
+        "latLang" : {
+            "latitude" : 15.1764532,
+            "langitude" : 37.5876927
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/eri.jpg?raw=true"
+    },
+    {
+        "ady" : "Ermenistan",
+        "paytagt" : "Yerewan",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Ermeni dili",
+        "ilat" : "2.963.243",
+        "meydan" : "29.743",
+        "telefonKodu" : "+374",
+        "pul" : "Ermani Dramy (AMD)",
+        "yurtKodu" : "ARM",
+        "internet" : ".am",
+        "latLang" : {
+            "latitude" : 40.1772415,
+            "langitude" : 44.2071765
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/arm.jpg?raw=true"
+    },
+    {
+        "ady" : "Estoniýa",
+        "paytagt" : "Tallin",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Eston dili",
+        "ilat" : "1.326.535",
+        "meydan" : "45.226",
+        "telefonKodu" : "+372",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "EST",
+        "internet" : ".ee",
+        "latLang" : {
+            "latitude" : 58.6008978,
+            "langitude" : 22.6900174
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/est.jpg?raw=true"
+    },
+    {
+        "ady" : "Eýran Yslam Respublikasy",
+        "paytagt" : "Tähran",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Pars dili",
+        "ilat" : "83.992.949",
+        "meydan" : "1.648.000",
+        "telefonKodu" : "+98",
+        "pul" : "Eýran Riýaly (IRR)",
+        "yurtKodu" : "IRI",
+        "internet" : ".ir",
+        "latLang" : {
+            "latitude" : 31.9738494,
+            "langitude" : 44.6713723
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/irn.jpg?raw=true"
+    },
+    {
+        "ady" : "Farer Adalary",
+        "paytagt" : "Torşawn",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Faruz dili",
+        "ilat" : "49.376",
+        "meydan" : "1.399",
+        "telefonKodu" : "+298",
+        "pul" : "Farer Kronasy (DKK)",
+        "yurtKodu" : "FRO",
+        "internet" : ".fo",
+        "latLang" : {
+            "latitude" : 61.89487,
+            "langitude" : -8.0752106
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/fro.jpg?raw=true"
+    },
+    {
+        "ady" : "Fiji",
+        "paytagt" : "Suwa",
+        "sebit" : "Okean, Melaneziýa",
+        "dil" : "Iňlis, Fiji we Hindi dilleri",
+        "ilat" : "896.445",
+        "meydan" : "18.333",
+        "telefonKodu" : "+679",
+        "pul" : "Fiji Dollary (FJD)",
+        "yurtKodu" : "FIJ",
+        "internet" : ".fj",
+        "latLang" : {
+            "latitude" : -17.6475041,
+            "langitude" : 178.0382823
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/fji.jpg?raw=true"
+    },
+    {
+        "ady" : "Filippinler",
+        "paytagt" : "Manila",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "109.581.078",
+        "meydan" : "342.353",
+        "telefonKodu" : "+63",
+        "pul" : "Filippin Pesosy (PHP)",
+        "yurtKodu" : "PHI",
+        "internet" : ".ph",
+        "latLang" : {
+            "latitude" : 11.9521522,
+            "langitude" : 118.333483
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/phl.jpg?raw=true"
+    },
+    {
+        "ady" : "Finlandiýa",
+        "paytagt" : "Helsinki",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Fin we Şwed dilleri",
+        "ilat" : "5.540.720",
+        "meydan" : "338.440",
+        "telefonKodu" : "+358",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "FIN",
+        "internet" : ".fi",
+        "latLang" : {
+            "latitude" : 65.0531123,
+            "langitude" : 18.8046619
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/fin.jpg?raw=true"
+    },
+    {
+        "ady" : "Folklend Adalary (Malwinas)",
+        "paytagt" : "Stenli",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "3.480",
+        "meydan" : "12.173",
+        "telefonKodu" : "+500",
+        "pul" : "Folklend Funty (FKP)",
+        "yurtKodu" : "FLK",
+        "internet" : ".fk",
+        "latLang" : {
+            "latitude" : -51.7623561,
+            "langitude" : -60.7533246
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/flk.jpg?raw=true"
+    },
+    {
+        "ady" : "Fransiýa",
+        "paytagt" : "Pariž",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Fransuz dili",
+        "ilat" : "65.273.511",
+        "meydan" : "643.801",
+        "telefonKodu" : "+33",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "FRA",
+        "internet" : ".fr",
+        "latLang" : {
+            "latitude" : 46.5205424,
+            "langitude" : -0.6399145
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/fra.jpg?raw=true"
+    },
+    {
+        "ady" : "Fransiýanyň Günorta Sebitleri",
+        "paytagt" : "Port-aux-Français",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "310",
+        "meydan" : "7.819",
+        "telefonKodu" : "---",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "ATF",
+        "internet" : ".tf",
+        "latLang" : {
+            "latitude" : -49.2901935,
+            "langitude" : 68.3182963
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/atf.jpg?raw=true"
+    },
+    {
+        "ady" : "Fransuz Gwiana",
+        "paytagt" : "Kayenne",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Fransuz dili",
+        "ilat" : "298.682",
+        "meydan" : "83.534",
+        "telefonKodu" : "+594",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "GUF",
+        "internet" : ".fr",
+        "latLang" : {
+            "latitude" : 4.0289595,
+            "langitude" : -55.3302329
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/guf.jpg?raw=true"
+    },
+    {
+        "ady" : "Fransuz Polineziýasy",
+        "paytagt" : "Papeete",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Fransuz dili",
+        "ilat" : "280.908",
+        "meydan" : "4.167",
+        "telefonKodu" : "+689",
+        "pul" : "CFP Franky (XPF)",
+        "yurtKodu" : "PYF",
+        "internet" : ".pf",
+        "latLang" : {
+            "latitude" : -17.2892834,
+            "langitude" : -150.7297739
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pyf.jpg?raw=true"
+    },
+    {
+        "ady" : "Gabon",
+        "paytagt" : "Librewil",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "2.225.734",
+        "meydan" : "267.667",
+        "telefonKodu" : "+241",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "GAB",
+        "internet" : ".ga",
+        "latLang" : {
+            "latitude" : -0.8549904,
+            "langitude" : 9.2826962
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gab.jpg?raw=true"
+    },
+    {
+        "ady" : "Gaiti",
+        "paytagt" : "Port-au-Prens",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Fransuz we Gaiti dilleri",
+        "ilat" : "11.402.528",
+        "meydan" : "27.750",
+        "telefonKodu" : "+509",
+        "pul" : "Gaiti Gordy (HTG)",
+        "yurtKodu" : "HAI",
+        "internet" : ".ht",
+        "latLang" : {
+            "latitude" : 19.4863311,
+            "langitude" : -74.6297762
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/hti.jpg?raw=true"
+    },
+    {
+        "ady" : "Gambiýa",
+        "paytagt" : "Banjul",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "2.416.668",
+        "meydan" : "11.295",
+        "telefonKodu" : "+220",
+        "pul" : "Gambiýa Dalasi (GMD)",
+        "yurtKodu" : "GAM",
+        "internet" : ".gm",
+        "latLang" : {
+            "latitude" : 13.3374739,
+            "langitude" : -16.4461177
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gmb.jpg?raw=true"
+    },
+    {
+        "ady" : "Gana",
+        "paytagt" : "Akkra",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "31.072.940",
+        "meydan" : "238.535",
+        "telefonKodu" : "+233",
+        "pul" : "Gana Sedi (GHS)",
+        "yurtKodu" : "GHA",
+        "internet" : ".gh",
+        "latLang" : {
+            "latitude" : 7.8984774,
+            "langitude" : -3.2749614
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gha.jpg?raw=true"
+    },
+    {
+        "ady" : "Gaýana",
+        "paytagt" : "Georgetown",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "786.552",
+        "meydan" : "214.969",
+        "telefonKodu" : "+592",
+        "pul" : "Gaýan Dollary (GYD)",
+        "yurtKodu" : "GUY",
+        "internet" : ".gy",
+        "latLang" : {
+            "latitude" : 4.7470753,
+            "langitude" : -60.6568225
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/guy.jpg?raw=true"
+    },
+    {
+        "ady" : "Gazagystan",
+        "paytagt" : "Nur-Sultan",
+        "sebit" : "Merkezi Aziýa",
+        "dil" : "Gazak we Rus dilleri",
+        "ilat" : "18.776.707",
+        "meydan" : "2.725.000",
+        "telefonKodu" : "+7(6) we +7(7)",
+        "pul" : "Gazagystan Tengesi (KZT)",
+        "yurtKodu" : "KAZ",
+        "internet" : ".kz",
+        "latLang" : {
+            "latitude" : 48.7247447,
+            "langitude" : 57.3880476
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kaz.jpg?raw=true"
+    },
+    {
+        "ady" : "Germaniýa",
+        "paytagt" : "Berlin",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Nemes dili",
+        "ilat" : "83.783.942",
+        "meydan" : "357.386",
+        "telefonKodu" : "+49",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "GER",
+        "internet" : ".de",
+        "latLang" : {
+            "latitude" : 51.0899232,
+            "langitude" : 5.968358
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/deu.jpg?raw=true"
+    },
+    {
+        "ady" : "Gibraltar",
+        "paytagt" : "Gibraltar",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Iňlis dili",
+        "ilat" : "33.691",
+        "meydan" : "6.8",
+        "telefonKodu" : "+350",
+        "pul" : "Gibraltar Funty (GIP)",
+        "yurtKodu" : "GIB",
+        "internet" : ".gi",
+        "latLang" : {
+            "latitude" : 36.1295042,
+            "langitude" : -5.3883195
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gib.jpg?raw=true"
+    },
+    {
+        "ady" : "Gollandiýa",
+        "paytagt" : "Amsterdam",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Golland dili",
+        "ilat" : "17.134.872",
+        "meydan" : "41.543",
+        "telefonKodu" : "+31",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "NED",
+        "internet" : ".nl",
+        "latLang" : {
+            "latitude" : 52.1917328,
+            "langitude" : 3.0368114
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nld.jpg?raw=true"
+    },
+    {
+        "ady" : "Gonduras",
+        "paytagt" : "Tegusigalpa",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "9.904.607",
+        "meydan" : "112.492",
+        "telefonKodu" : "+504",
+        "pul" : "Gonduras Lempirasy (HNL)",
+        "yurtKodu" : "HON",
+        "internet" : ".hn",
+        "latLang" : {
+            "latitude" : 15.2131706,
+            "langitude" : -88.4538714
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/hnd.jpg?raw=true"
+    },
+    {
+        "ady" : "Gonkong",
+        "paytagt" : "Wiktoriýa şäheri",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Iňlis we Hytaý dilleri",
+        "ilat" : "7.496.981",
+        "meydan" : "1.106",
+        "telefonKodu" : "+852",
+        "pul" : "Gonkong Dollary (HKD)",
+        "yurtKodu" : "HKG",
+        "internet" : ".hk",
+        "latLang" : {
+            "latitude" : 22.3526632,
+            "langitude" : 113.9876134
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/hkg.jpg?raw=true"
+    },
+    {
+        "ady" : "Grenada",
+        "paytagt" : "Saint George's",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "112.523",
+        "meydan" : "348.5",
+        "telefonKodu" : "+1(473)",
+        "pul" : "Gündogar Karib Dollary (XCD)",
+        "yurtKodu" : "GRN",
+        "internet" : ".gd",
+        "latLang" : {
+            "latitude" : 12.3106504,
+            "langitude" : -61.8265501
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/grd.jpg?raw=true"
+    },
+    {
+        "ady" : "Grenlandiýa",
+        "paytagt" : "Nuuk",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Kalaallisut dili",
+        "ilat" : "56.770",
+        "meydan" : "2.166.000",
+        "telefonKodu" : "+299",
+        "pul" : "Daniýa Krony (DKK)",
+        "yurtKodu" : "GRL",
+        "internet" : ".gl",
+        "latLang" : {
+            "latitude" : 74.9432146,
+            "langitude" : -73.6329558
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/grl.jpg?raw=true"
+    },
+    {
+        "ady" : "Gresiýa",
+        "paytagt" : "Afiny",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Grek dili",
+        "ilat" : "10.423.054",
+        "meydan" : "131.957",
+        "telefonKodu" : "+30",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "GRE",
+        "internet" : ".gr",
+        "latLang" : {
+            "latitude" : 38.0602746,
+            "langitude" : 19.9900162
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/grc.jpg?raw=true"
+    },
+    {
+        "ady" : "Guadelupa",
+        "paytagt" : "Basse-Terre",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Fransuz dili",
+        "ilat" : "400.124",
+        "meydan" : "1.628",
+        "telefonKodu" : "+590",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "GLP",
+        "internet" : ".gp",
+        "latLang" : {
+            "latitude" : 16.1494466,
+            "langitude" : -61.6772474
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/glp.jpg?raw=true"
+    },
+    {
+        "ady" : "Guam",
+        "paytagt" : "Hagatna",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis, Çamorro we Ispan dilleri",
+        "ilat" : "168.775",
+        "meydan" : "549",
+        "telefonKodu" : "+1(671)",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "GUM",
+        "internet" : ".gu",
+        "latLang" : {
+            "latitude" : 13.4398249,
+            "langitude" : 144.6410431
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gum.jpg?raw=true"
+    },
+    {
+        "ady" : "Günbatar Sahara",
+        "paytagt" : "Laayoune",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Ispan dili",
+        "ilat" : "597.339",
+        "meydan" : "266.000",
+        "telefonKodu" : "+212",
+        "pul" : "Marokko Dirhemi (MAD)",
+        "yurtKodu" : "ESH",
+        "internet" : ".eh",
+        "latLang" : {
+            "latitude" : 24.2724714,
+            "langitude" : -15.4916535
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/esh.jpg?raw=true"
+    },
+    {
+        "ady" : "Gündogar Timor",
+        "paytagt" : "Dili",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Portugal dili",
+        "ilat" : "1.318.445",
+        "meydan" : "15.006",
+        "telefonKodu" : "+670",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "TLS",
+        "internet" : ".tl",
+        "latLang" : {
+            "latitude" : -8.8012569,
+            "langitude" : 124.5553811
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tls.jpg?raw=true"
+    },
+    {
+        "ady" : "Günorta Afrika",
+        "paytagt" : "Pretoriýa",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Afrika, Iňlis, Ndebele, Sotho, Swati, Tswana, Tsonga, Wenda, Kosa we Zulu dilleri",
+        "ilat" : "59.308.690",
+        "meydan" : "1.220.000",
+        "telefonKodu" : "+27",
+        "pul" : "Günorta Afrika Randy (ZAR)",
+        "yurtKodu" : "RSA",
+        "internet" : ".za",
+        "latLang" : {
+            "latitude" : -26.1568056,
+            "langitude" : 17.3275225
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/zaf.jpg?raw=true"
+    },
+    {
+        "ady" : "Günorta Koreýa",
+        "paytagt" : "Seul",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Koreýa dili",
+        "ilat" : "51.269.185",
+        "meydan" : "100.210",
+        "telefonKodu" : "+82",
+        "pul" : "Günorta Koreýa Wony (KRW)",
+        "yurtKodu" : "KOR",
+        "internet" : ".kr",
+        "latLang" : {
+            "latitude" : 35.7675736,
+            "langitude" : 123.7795347
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kor.jpg?raw=true"
+    },
+    {
+        "ady" : "Günorta Sudan",
+        "paytagt" : "Juba",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "11.193.725",
+        "meydan" : "619.745",
+        "telefonKodu" : "+211",
+        "pul" : "Günorta Sudan Funty (SSP)",
+        "yurtKodu" : "SSD",
+        "internet" : ".ss",
+        "latLang" : {
+            "latitude" : 7.838761,
+            "langitude" : 25.1961259
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ssd.jpg?raw=true"
+    },
+    {
+        "ady" : "Gürjistan (Gruziýa)",
+        "paytagt" : "Tbilisi",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Gürji dili",
+        "ilat" : "3.989.167",
+        "meydan" : "69.700",
+        "telefonKodu" : "+995",
+        "pul" : "Gürji Larisy (GEL)",
+        "yurtKodu" : "GEO",
+        "internet" : ".ge",
+        "latLang" : {
+            "latitude" : 42.2989189,
+            "langitude" : 41.1144235
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/geo.jpg?raw=true"
+    },
+    {
+        "ady" : "Gwatemala",
+        "paytagt" : "Gwatemala şäheri",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "17.915.568",
+        "meydan" : "108.888",
+        "telefonKodu" : "+502",
+        "pul" : "Gwatemala Kwetzaly (GTQ)",
+        "yurtKodu" : "GUA",
+        "internet" : ".gt",
+        "latLang" : {
+            "latitude" : 15.7113811,
+            "langitude" : -92.4793655
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gtm.jpg?raw=true"
+    },
+    {
+        "ady" : "Gwineýa",
+        "paytagt" : "Konakri",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz we Fula dilleri",
+        "ilat" : "13.132.795",
+        "meydan" : "245.857",
+        "telefonKodu" : "+224",
+        "pul" : "Gwineýa Franky (GNF)",
+        "yurtKodu" : "GUI",
+        "internet" : ".gn",
+        "latLang" : {
+            "latitude" : 10.1716308,
+            "langitude" : -13.0475015
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gin.jpg?raw=true"
+    },
+    {
+        "ady" : "Gwineýa-Bissau",
+        "paytagt" : "Bissau",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Portugal dili",
+        "ilat" : "1.968.001",
+        "meydan" : "36.125",
+        "telefonKodu" : "+245",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "GBS",
+        "internet" : ".gw",
+        "latLang" : {
+            "latitude" : 11.9554977,
+            "langitude" : -16.0944868
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/gnb.jpg?raw=true"
+    },
+    {
+        "ady" : "Gyrgyzystan",
+        "paytagt" : "Bişkek",
+        "sebit" : "Merkezi Aziýa",
+        "dil" : "Gyrgyz we Rus dilleri",
+        "ilat" : "6.524.195",
+        "meydan" : "199.900",
+        "telefonKodu" : "+996",
+        "pul" : "Gyrgyzystan Somy (KGS)",
+        "yurtKodu" : "KGZ",
+        "internet" : ".kg",
+        "latLang" : {
+            "latitude" : 41.2599625,
+            "langitude" : 72.392262
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kgz.jpg?raw=true"
+    },
+    {
+        "ady" : "Hindistan",
+        "paytagt" : "Täze Deli",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Hindi dili",
+        "ilat" : "1.380.004.385",
+        "meydan" : "3.287.000",
+        "telefonKodu" : "+91",
+        "pul" : "Hindi Rupisi (INR)",
+        "yurtKodu" : "IND",
+        "internet" : ".in",
+        "latLang" : {
+            "latitude" : 21.6617364,
+            "langitude" : 72.5999221
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ind.jpg?raw=true"
+    },
+    {
+        "ady" : "Horwatiýa",
+        "paytagt" : "Zagreb",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Horwat dili",
+        "ilat" : "4.105.267",
+        "meydan" : "56.594",
+        "telefonKodu" : "+385",
+        "pul" : "Horwatiýa Kunasy (HRK)",
+        "yurtKodu" : "CRO",
+        "internet" : ".hr",
+        "latLang" : {
+            "latitude" : 44.4002474,
+            "langitude" : 14.4398543
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/hrv.jpg?raw=true"
+    },
+    {
+        "ady" : "Hytaý Halk Respublikasy",
+        "paytagt" : "Pekin",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Hytaý dili",
+        "ilat" : "1.439.323.776",
+        "meydan" : "9.597.000",
+        "telefonKodu" : "+86",
+        "pul" : "Hytaý Ýuany (CNY)",
+        "yurtKodu" : "CHN",
+        "internet" : ".cn",
+        "latLang" : {
+            "latitude" : 34.4140974,
+            "langitude" : 86.0474698
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/chn.jpg?raw=true"
+    },
+    {
+        "ady" : "Indoneziýa",
+        "paytagt" : "Jakarta",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Indonez dili",
+        "ilat" : "273.523.615",
+        "meydan" : "1.905.000",
+        "telefonKodu" : "+62",
+        "pul" : "Indoneziýa Rupiýasy (IDR)",
+        "yurtKodu" : "INA",
+        "internet" : ".id",
+        "latLang" : {
+            "latitude" : 2.9513737,
+            "langitude" : 102.4299139
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/idn.jpg?raw=true"
+    },
+    {
+        "ady" : "Iordaniýa",
+        "paytagt" : "Amman",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "10.203.134",
+        "meydan" : "89.342",
+        "telefonKodu" : "+962",
+        "pul" : "Iordaniýa Dinary (JOD)",
+        "yurtKodu" : "JOR",
+        "internet" : ".jo",
+        "latLang" : {
+            "latitude" : 31.2603889,
+            "langitude" : 34.8788897
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/jor.jpg?raw=true"
+    },
+    {
+        "ady" : "Irlandiýa",
+        "paytagt" : "Dublin",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Irland we Iňlis dilleri",
+        "ilat" : "4.937.786",
+        "meydan" : "84.421",
+        "telefonKodu" : "+353",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "IRL",
+        "internet" : ".ie",
+        "latLang" : {
+            "latitude" : 53.3623854,
+            "langitude" : -10.4601123
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/irl.jpg?raw=true"
+    },
+    {
+        "ady" : "Islandiýa",
+        "paytagt" : "Reýkýawik",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Island dili",
+        "ilat" : "341.243",
+        "meydan" : "103.000",
+        "telefonKodu" : "+354",
+        "pul" : "Islandiýa Kronasy (ISK)",
+        "yurtKodu" : "ISL",
+        "internet" : ".is",
+        "latLang" : {
+            "latitude" : 64.8465546,
+            "langitude" : -22.6038537
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/isl.jpg?raw=true"
+    },
+    {
+        "ady" : "Ispaniýa",
+        "paytagt" : "Madrid",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Ispan dili",
+        "ilat" : "46.754.778",
+        "meydan" : "505.990",
+        "telefonKodu" : "+34",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "ESP",
+        "internet" : ".es",
+        "latLang" : {
+            "latitude" : 40.1216758,
+            "langitude" : -8.2035206
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/esp.jpg?raw=true"
+    },
+    {
+        "ady" : "Italýa",
+        "paytagt" : "Rim",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Italýan dili",
+        "ilat" : "60.461.826",
+        "meydan" : "301.338",
+        "telefonKodu" : "+39",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "ITA",
+        "internet" : ".it",
+        "latLang" : {
+            "latitude" : 42.1269482,
+            "langitude" : 8.761048
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ita.jpg?raw=true"
+    },
+    {
+        "ady" : "Jersey",
+        "paytagt" : "Saint Helier",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Fransuz we Iňlis dilleri",
+        "ilat" : "100.800",
+        "meydan" : "119.5",
+        "telefonKodu" : "+44",
+        "pul" : "Jersey Funty (JEP)",
+        "yurtKodu" : "JEY",
+        "internet" : ".je",
+        "latLang" : {
+            "latitude" : 49.215648,
+            "langitude" : -2.2080624
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/jey.jpg?raw=true"
+    },
+    {
+        "ady" : "Jibuti",
+        "paytagt" : "Jibuti",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Fransuz we Arap dilleri",
+        "ilat" : "988.000",
+        "meydan" : "23.200",
+        "telefonKodu" : "+253",
+        "pul" : "Jibuti Franky (DJF)",
+        "yurtKodu" : "DJI",
+        "internet" : ".dj",
+        "latLang" : {
+            "latitude" : 11.8127757,
+            "langitude" : 42.0668781
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/dji.jpg?raw=true"
+    },
+    {
+        "ady" : "Kabo Werde",
+        "paytagt" : "Praia",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Potugal dili",
+        "ilat" : "555.987",
+        "meydan" : "4.033",
+        "telefonKodu" : "+238",
+        "pul" : "Kabo Werde Eskudosu (CVE)",
+        "yurtKodu" : "CPV",
+        "internet" : ".cv",
+        "latLang" : {
+            "latitude" : 16.0202138,
+            "langitude" : -25.1099868
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cpv.jpg?raw=true"
+    },
+    {
+        "ady" : "Kamboja",
+        "paytagt" : "Pnompen",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Kmer dili",
+        "ilat" : "16.718.965",
+        "meydan" : "181.035",
+        "telefonKodu" : "+855",
+        "pul" : "Kamboja Riely (KHR)",
+        "yurtKodu" : "CAM",
+        "internet" : ".kh",
+        "latLang" : {
+            "latitude" : 12.1363981,
+            "langitude" : 102.7361403
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/khm.jpg?raw=true"
+    },
+    {
+        "ady" : "Kamerun",
+        "paytagt" : "Yaounde",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Iňlis we Fransuz dilleri",
+        "ilat" : "26.545.863",
+        "meydan" : "475.442",
+        "telefonKodu" : "+237",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "CMR",
+        "internet" : ".cm",
+        "latLang" : {
+            "latitude" : 6.4091536,
+            "langitude" : 8.6308885
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cmr.jpg?raw=true"
+    },
+    {
+        "ady" : "Kanada",
+        "paytagt" : "Ottawa",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis we Fransuz dilleri",
+        "ilat" : "37.742.154",
+        "meydan" : "9.985.000",
+        "telefonKodu" : "+1",
+        "pul" : "Kanada Dollary (CAD)",
+        "yurtKodu" : "CAN",
+        "internet" : ".ca",
+        "latLang" : {
+            "latitude" : 69.8786949,
+            "langitude" : -128.8009499
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/can.jpg?raw=true"
+    },
+    {
+        "ady" : "Katar",
+        "paytagt" : "Doha",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "2.881.053",
+        "meydan" : "11.571",
+        "telefonKodu" : "+974",
+        "pul" : "Katar Riyaly (QAR)",
+        "yurtKodu" : "QAT",
+        "internet" : "qa",
+        "latLang" : {
+            "latitude" : 25.3430485,
+            "langitude" : 50.6572839
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/qat.jpg?raw=true"
+    },
+    {
+        "ady" : "Kaýman Adalary",
+        "paytagt" : "George Town",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Iňlis dili",
+        "ilat" : "65.722",
+        "meydan" : "259",
+        "telefonKodu" : "+1(345)",
+        "pul" : "Kaýman Adalary Dollary (KYD)",
+        "yurtKodu" : "CAY",
+        "internet" : ".ky",
+        "latLang" : {
+            "latitude" : 19.5176653,
+            "langitude" : -81.098966
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cym.jpg?raw=true"
+    },
+    {
+        "ady" : "Keniýa",
+        "paytagt" : "Nairobi",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Iňlis we Suwaýili dilleri",
+        "ilat" : "53.771.296",
+        "meydan" : "580.367",
+        "telefonKodu" : "+254",
+        "pul" : "Keniýa Şilingi (KES)",
+        "yurtKodu" : "KEN",
+        "internet" : ".ke",
+        "latLang" : {
+            "latitude" : 0.1540842,
+            "langitude" : 33.4092111
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ken.jpg?raw=true"
+    },
+    {
+        "ady" : "Kipr",
+        "paytagt" : "Nikosiýa",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Grek we Türk dilleri",
+        "ilat" : "1.207.359",
+        "meydan" : "9.251",
+        "telefonKodu" : "+357",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "CYP",
+        "internet" : ".cy",
+        "latLang" : {
+            "latitude" : 35.1251786,
+            "langitude" : 32.9422555
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cyp.jpg?raw=true"
+    },
+    {
+        "ady" : "Kiribati",
+        "paytagt" : "Günorta Tarawa",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "119.449",
+        "meydan" : "811",
+        "telefonKodu" : "+686",
+        "pul" : "Awstraliýa Dollary (AUD)",
+        "yurtKodu" : "KIR",
+        "internet" : ".ki",
+        "latLang" : {
+            "latitude" : -3.6252653,
+            "langitude" : 173.4208748
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kir.jpg?raw=true"
+    },
+    {
+        "ady" : "Kolumbiýa",
+        "paytagt" : "Bogota",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "50.882.891",
+        "meydan" : "1.142.000",
+        "telefonKodu" : "+57",
+        "pul" : "Kolombiýa Pesosy (COP)",
+        "yurtKodu" : "COL",
+        "internet" : ".co",
+        "latLang" : {
+            "latitude" : 4.5877586,
+            "langitude" : -83.3895534
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/col.jpg?raw=true"
+    },
+    {
+        "ady" : "Komorlar Adasy",
+        "paytagt" : "Moroni",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Arap we Fransuz dilleri",
+        "ilat" : "869.601",
+        "meydan" : "1.659",
+        "telefonKodu" : "+269",
+        "pul" : "Komor Franky (KMF)",
+        "yurtKodu" : "COM",
+        "internet" : ".km",
+        "latLang" : {
+            "latitude" : -11.9024929,
+            "langitude" : 43.3202846
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/com.jpg?raw=true"
+    },
+    {
+        "ady" : "Kongo",
+        "paytagt" : "Brazawil",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Fransuz we Lingala dilleri",
+        "ilat" : "5.518.087",
+        "meydan" : "342.000",
+        "telefonKodu" : "+242",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "CGO",
+        "internet" : ".cg",
+        "latLang" : {
+            "latitude" : 0.9707113,
+            "langitude" : 10.8916048
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cog.jpg?raw=true"
+    },
+    {
+        "ady" : "Kongo Demokratik Respublikasy",
+        "paytagt" : "Kinşasa",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Fransuz, Lingala we Kongo dilleri",
+        "ilat" : "89.561.403",
+        "meydan" : "2.345.000",
+        "telefonKodu" : "+243",
+        "pul" : "Kongo Franky (CDF)",
+        "yurtKodu" : "COD",
+        "internet" : ".cd",
+        "latLang" : {
+            "latitude" : -3.9834936,
+            "langitude" : 12.6823952
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cod.jpg?raw=true"
+    },
+    {
+        "ady" : "Kosowa",
+        "paytagt" : "Priştina",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Alban dili",
+        "ilat" : "1.810.695",
+        "meydan" : "10.887",
+        "telefonKodu" : "+383",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "KOS",
+        "internet" : "---",
+        "latLang" : {
+            "latitude" : 42.557198,
+            "langitude" : 19.7809416
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kos.jpg?raw=true"
+    },
+    {
+        "ady" : "Kosta Rika",
+        "paytagt" : "San-Hose",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "5.094.118",
+        "meydan" : "51.100",
+        "telefonKodu" : "+333",
+        "pul" : "Kosta Rika Kolony (CRK)",
+        "yurtKodu" : "CRC",
+        "internet" : ".cr",
+        "latLang" : {
+            "latitude" : 9.7342842,
+            "langitude" : -85.3682035
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cri.jpg?raw=true"
+    },
+    {
+        "ady" : "Kot-d-Iwuar",
+        "paytagt" : "Ýamoussoukro",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "26.378.274",
+        "meydan" : "322.463",
+        "telefonKodu" : "+225",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "CIV",
+        "internet" : ".ci",
+        "latLang" : {
+            "latitude" : 7.419313,
+            "langitude" : -7.3112736
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/civ.jpg?raw=true"
+    },
+    {
+        "ady" : "Kuba",
+        "paytagt" : "Gawana",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Ispan dili",
+        "ilat" : "11.326.616",
+        "meydan" : "109.884",
+        "telefonKodu" : "+53",
+        "pul" : "Kuba Pesosy (CUP)",
+        "yurtKodu" : "CUB",
+        "internet" : ".cu",
+        "latLang" : {
+            "latitude" : 21.5002524,
+            "langitude" : -81.8073626
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cub.jpg?raw=true"
+    },
+    {
+        "ady" : "Kuk Adalary",
+        "paytagt" : "Awarua",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "17.564",
+        "meydan" : "236.7",
+        "telefonKodu" : "+682",
+        "pul" : "Täze Zelandiýa Dollary (NZD)",
+        "yurtKodu" : "COK",
+        "internet" : ".ck",
+        "latLang" : {
+            "latitude" : -15.4440516,
+            "langitude" : -169.9801173
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cok.jpg?raw=true"
+    },
+    {
+        "ady" : "Kurakao",
+        "paytagt" : "Willemstad",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Golland, Penjebi we Iňlis dilleri",
+        "ilat" : "164.093",
+        "meydan" : "444",
+        "telefonKodu" : "+599",
+        "pul" : "Golland Antilles Gildiýasy (ANG)",
+        "yurtKodu" : "CUW",
+        "internet" : ".an",
+        "latLang" : {
+            "latitude" : 12.2081583,
+            "langitude" : -69.2131984
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/cuw.jpg?raw=true"
+    },
+    {
+        "ady" : "Kuweýt",
+        "paytagt" : "Kuweýt",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "4.270.571",
+        "meydan" : "17.818",
+        "telefonKodu" : "+965",
+        "pul" : "Kuweýt Dinary (KWD)",
+        "yurtKodu" : "KUW",
+        "internet" : ".kw",
+        "latLang" : {
+            "latitude" : 29.3129025,
+            "langitude" : 46.9752505
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kwt.jpg?raw=true"
+    },
+    {
+        "ady" : "Laos Halk Demokratik Respublikasy",
+        "paytagt" : "Wientiane",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Lao dili",
+        "ilat" : "7.275.560",
+        "meydan" : "236.800",
+        "telefonKodu" : "+856",
+        "pul" : "Lao Kipy (LAK)",
+        "yurtKodu" : "LAO",
+        "internet" : ".la",
+        "latLang" : {
+            "latitude" : 19.3040095,
+            "langitude" : 99.9427285
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lao.jpg?raw=true"
+    },
+    {
+        "ady" : "Latwiýa",
+        "paytagt" : "Riga",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Latwiýa dili",
+        "ilat" : "1.886.198",
+        "meydan" : "64.589",
+        "telefonKodu" : "+371",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "LAT",
+        "internet" : ".lv",
+        "latLang" : {
+            "latitude" : 57.1708881,
+            "langitude" : 22.3126484
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lva.jpg?raw=true"
+    },
+    {
+        "ady" : "Liwan",
+        "paytagt" : "Beýrut",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap we Fransuz dilleri",
+        "ilat" : "6.825.445",
+        "meydan" : "10.452",
+        "telefonKodu" : "+961",
+        "pul" : "Liwan Funty (LBP)",
+        "yurtKodu" : "LIB",
+        "internet" : ".lb",
+        "latLang" : {
+            "latitude" : 33.8684808,
+            "langitude" : 34.726174
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lbn.jpg?raw=true"
+    },
+    {
+        "ady" : "Lesoto",
+        "paytagt" : "Maseru",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Iňlis we Sotho dilleri",
+        "ilat" : "2.142.249",
+        "meydan" : "30.355",
+        "telefonKodu" : "+266",
+        "pul" : "Lesoto Loti (LSL) we Günorta Afrika Randy (ZAR)",
+        "yurtKodu" : "LES",
+        "internet" : ".ls",
+        "latLang" : {
+            "latitude" : -29.6184758,
+            "langitude" : 27.1122315
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lso.jpg?raw=true"
+    },
+    {
+        "ady" : "Liberiýa",
+        "paytagt" : "Monrowiýa",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "5.057.681",
+        "meydan" : "111.369",
+        "telefonKodu" : "+231",
+        "pul" : "Liberiýa Dollary (LRD)",
+        "yurtKodu" : "LBR",
+        "internet" : ".lr",
+        "latLang" : {
+            "latitude" : 6.4059652,
+            "langitude" : -11.6970021
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lbr.jpg?raw=true"
+    },
+    {
+        "ady" : "Liwiýa",
+        "paytagt" : "Tripoli",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Arap dili",
+        "ilat" : "6.871.292",
+        "meydan" : "1.760.000",
+        "telefonKodu" : "+218",
+        "pul" : "Liwiýa Dinary (LYD)",
+        "yurtKodu" : "LBA",
+        "internet" : ".ly",
+        "latLang" : {
+            "latitude" : 26.0773223,
+            "langitude" : 8.3059927
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lby.jpg?raw=true"
+    },
+    {
+        "ady" : "Lihtenşteýn",
+        "paytagt" : "Waduz",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Nemes dili",
+        "ilat" : "38.128",
+        "meydan" : "160",
+        "telefonKodu" : "+423",
+        "pul" : "Şweýsariýa Franky (CHF)",
+        "yurtKodu" : "LIE",
+        "internet" : ".li",
+        "latLang" : {
+            "latitude" : 47.159333,
+            "langitude" : 9.413552
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lie.jpg?raw=true"
+    },
+    {
+        "ady" : "Litwa",
+        "paytagt" : "Wilnius",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Litwa dili",
+        "ilat" : "2.722.289",
+        "meydan" : "65.300",
+        "telefonKodu" : "+370",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "LTU",
+        "internet" : ".lt",
+        "latLang" : {
+            "latitude" : 55.566142,
+            "langitude" : 21.4315232
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ltu.jpg?raw=true"
+    },
+    {
+        "ady" : "Lýuksemburg",
+        "paytagt" : "Lýuksemburg",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Fransuz, Nemes we Lýuksemburg dilleri",
+        "ilat" : "625.978",
+        "meydan" : "2.586",
+        "telefonKodu" : "+352",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "LUX",
+        "internet" : ".lu",
+        "latLang" : {
+            "latitude" : 49.8139484,
+            "langitude" : 5.5729102
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lux.jpg?raw=true"
+    },
+    {
+        "ady" : "Madagaskar",
+        "paytagt" : "Antananariwo",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Fransuz we Malagasy dilleri",
+        "ilat" : "27.691.018",
+        "meydan" : "587.041",
+        "telefonKodu" : "+261",
+        "pul" : "Madagaskar Ariarysy (MGA)",
+        "yurtKodu" : "MAD",
+        "internet" : ".mg",
+        "latLang" : {
+            "latitude" : -18.7719242,
+            "langitude" : 42.3713071
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mdg.jpg?raw=true"
+    },
+    {
+        "ady" : "Malawi",
+        "paytagt" : "Lilongwe",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Iňlis we Çiçewa dilleri",
+        "ilat" : "19.129.952",
+        "meydan" : "118.484",
+        "telefonKodu" : "+265",
+        "pul" : "Malawi Kwaçasy (MWK)",
+        "yurtKodu" : "MAW",
+        "internet" : ".mw",
+        "latLang" : {
+            "latitude" : -13.2090009,
+            "langitude" : 29.7974293
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mwi.jpg?raw=true"
+    },
+    {
+        "ady" : "Malaýziýa",
+        "paytagt" : "Kuala-Lumpur",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Malaý dili",
+        "ilat" : "32.365.999",
+        "meydan" : "329.847",
+        "telefonKodu" : "+60",
+        "pul" : "Malaýziýa Ringgity (MYR)",
+        "yurtKodu" : "MYS",
+        "internet" : ".my",
+        "latLang" : {
+            "latitude" : 4.0892925,
+            "langitude" : 100.570574
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mys.jpg?raw=true"
+    },
+    {
+        "ady" : "Maldiw Adalary",
+        "paytagt" : "Male",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Diwehi dili",
+        "ilat" : "540.544",
+        "meydan" : "297.8",
+        "telefonKodu" : "+960",
+        "pul" : "Maldiw Rufiýasy (MVR)",
+        "yurtKodu" : "MDV",
+        "internet" : ".mv",
+        "latLang" : {
+            "latitude" : 3.1025272,
+            "langitude" : 68.7412433
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mdv.jpg?raw=true"
+    },
+    {
+        "ady" : "Mali",
+        "paytagt" : "Bamako",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "20.250.833",
+        "meydan" : "1.240.000",
+        "telefonKodu" : "+223",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "MLI",
+        "internet" : ".ml",
+        "latLang" : {
+            "latitude" : 18.1052335,
+            "langitude" : -8.7945445
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mli.jpg?raw=true"
+    },
+    {
+        "ady" : "Malta",
+        "paytagt" : "Bamako",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Malta we Iňlis dilleri",
+        "ilat" : "441.543",
+        "meydan" : "316",
+        "telefonKodu" : "+356",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "MLT",
+        "internet" : ".mt",
+        "latLang" : {
+            "latitude" : 35.9243331,
+            "langitude" : 14.2554048
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mlt.jpg?raw=true"
+    },
+    {
+        "ady" : "Marokko",
+        "paytagt" : "Rabat",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Arap dili",
+        "ilat" : "36.910.560",
+        "meydan" : "710.850",
+        "telefonKodu" : "+212",
+        "pul" : "Marokko Dirhemi (MAD)",
+        "yurtKodu" : "MAR",
+        "internet" : ".ma",
+        "latLang" : {
+            "latitude" : 28.9389698,
+            "langitude" : -13.2570254
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mar.jpg?raw=true"
+    },
+    {
+        "ady" : "Marşal Adalary",
+        "paytagt" : "Majuro",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Marşal we Iňlis dilleri",
+        "ilat" : "59.190",
+        "meydan" : "181,3",
+        "telefonKodu" : "+692",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "MHL",
+        "internet" : ".mh",
+        "latLang" : {
+            "latitude" : 9.1920755,
+            "langitude" : 162.7407641
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mhl.jpg?raw=true"
+    },
+    {
+        "ady" : "Martinika",
+        "paytagt" : "Fort-de-France",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Fransuz dili",
+        "ilat" : "375.265",
+        "meydan" : "1.128",
+        "telefonKodu" : "+596",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "MTQ",
+        "internet" : ".mq",
+        "latLang" : {
+            "latitude" : 14.6339221,
+            "langitude" : -61.2939697
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mtq.jpg?raw=true"
+    },
+    {
+        "ady" : "Mawritaniýa Yslam Respublikasy",
+        "paytagt" : "Nouakşott",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Arap dili",
+        "ilat" : "4.649.658",
+        "meydan" : "1.030.000",
+        "telefonKodu" : "+222",
+        "pul" : "Mawritan Ouguýasy (MRO)",
+        "yurtKodu" : "MTN",
+        "internet" : ".mr",
+        "latLang" : {
+            "latitude" : 21.0051432,
+            "langitude" : -14.3643613
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mrt.jpg?raw=true"
+    },
+    {
+        "ady" : "Mawritis",
+        "paytagt" : "Port Luis",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "1.271.768",
+        "meydan" : "2.040",
+        "telefonKodu" : "+230",
+        "pul" : "Mawritis Rupisi (MUR)",
+        "yurtKodu" : "MRI",
+        "internet" : ".mu",
+        "latLang" : {
+            "latitude" : -20.1904952,
+            "langitude" : 57.4038056
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mus.jpg?raw=true"
+    },
+    {
+        "ady" : "Maýotte",
+        "paytagt" : "Mamoudzou",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "272.815",
+        "meydan" : "374",
+        "telefonKodu" : "+262",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "MYT",
+        "internet" : ".yt",
+        "latLang" : {
+            "latitude" : -12.8065128,
+            "langitude" : 45.0156962
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/myt.jpg?raw=true"
+    },
+    {
+        "ady" : "Meksika",
+        "paytagt" : "Meksika şäheri",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "128.932.753",
+        "meydan" : "1.973.000",
+        "telefonKodu" : "+52",
+        "pul" : "Meksika Pesosy (MXN)",
+        "yurtKodu" : "MEX",
+        "internet" : ".mx",
+        "latLang" : {
+            "latitude" : 23.2934783,
+            "langitude" : -111.6497735
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mex.jpg?raw=true"
+    },
+    {
+        "ady" : "Mikroneziýa",
+        "paytagt" : "Palikir",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "115.023",
+        "meydan" : "702",
+        "telefonKodu" : "+691",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "FSM",
+        "internet" : ".fm",
+        "latLang" : {
+            "latitude" : 6.9109463,
+            "langitude" : 157.8981099
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/fsm.jpg?raw=true"
+    },
+    {
+        "ady" : "Moldowa",
+        "paytagt" : "Kişinew",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Rumyn dili",
+        "ilat" : "4.033.963",
+        "meydan" : "33.846",
+        "telefonKodu" : "+373",
+        "pul" : "Moldowa Leusy (MDL)",
+        "yurtKodu" : "MDA",
+        "internet" : ".md",
+        "latLang" : {
+            "latitude" : 46.9578291,
+            "langitude" : 26.1470836
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mda.jpg?raw=true"
+    },
+    {
+        "ady" : "Monako",
+        "paytagt" : "Monako",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Fransuz dili",
+        "ilat" : "39.242",
+        "meydan" : "202",
+        "telefonKodu" : "+377",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "MON",
+        "internet" : ".mc",
+        "latLang" : {
+            "latitude" : 43.7378501,
+            "langitude" : 7.4083429
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mco.jpg?raw=true"
+    },
+    {
+        "ady" : "Mongoliýa",
+        "paytagt" : "Ulan-Bator",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Mongol dili",
+        "ilat" : "3.278.290",
+        "meydan" : "1.564.000",
+        "telefonKodu" : "+976",
+        "pul" : "Mongol Tögrögi (MNT)",
+        "yurtKodu" : "MGL",
+        "internet" : ".mn",
+        "latLang" : {
+            "latitude" : 46.5126931,
+            "langitude" : 94.8567124
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mng.jpg?raw=true"
+    },
+    {
+        "ady" : "Montserrat",
+        "paytagt" : "Plimus",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "4.992",
+        "meydan" : "102",
+        "telefonKodu" : "+1(664)",
+        "pul" : "Gündogar Karib Deňzi Dollary (XCD)",
+        "yurtKodu" : "MSR",
+        "internet" : ".ms",
+        "latLang" : {
+            "latitude" : 16.7485253,
+            "langitude" : -62.2626425
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/msr.jpg?raw=true"
+    },
+    {
+        "ady" : "Mozambik",
+        "paytagt" : "Maputo",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Portugal dili",
+        "ilat" : "31.255.435",
+        "meydan" : "801.590",
+        "telefonKodu" : "+258",
+        "pul" : "Mozambik Metikasy (MZN)",
+        "yurtKodu" : "MOZ",
+        "internet" : ".mz",
+        "latLang" : {
+            "latitude" : -18.4213968,
+            "langitude" : 26.7687336
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/moz.jpg?raw=true"
+    },
+    {
+        "ady" : "Müsür",
+        "paytagt" : "Kair",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Arap dili",
+        "ilat" : "102.334.404",
+        "meydan" : "1.010.000",
+        "telefonKodu" : "+20",
+        "pul" : "Müsür Funty (EGP)",
+        "yurtKodu" : "EGY",
+        "internet" : ".eg",
+        "latLang" : {
+            "latitude" : 26.8349378,
+            "langitude" : 26.3818276
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/egy.jpg?raw=true"
+    },
+    {
+        "ady" : "Mýanmar",
+        "paytagt" : "Naýpýidaw",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Birma dili",
+        "ilat" : "54.409.800",
+        "meydan" : "676.575",
+        "telefonKodu" : "+95",
+        "pul" : "Birma Kýaty (MMK)",
+        "yurtKodu" : "MYA",
+        "internet" : ".mm",
+        "latLang" : {
+            "latitude" : 18.7806129,
+            "langitude" : 87.634286
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/mmr.jpg?raw=true"
+    },
+    {
+        "ady" : "Namibýa",
+        "paytagt" : "Windhoek",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Iňlis we Afrikan dilleri",
+        "ilat" : "2.540.905",
+        "meydan" : "825.419",
+        "telefonKodu" : "+264",
+        "pul" : "Namibiýa Dollary (NAD)",
+        "yurtKodu" : "NAM",
+        "internet" : ".na",
+        "latLang" : {
+            "latitude" : -22.9499359,
+            "langitude" : 15.3901129
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nam.jpg?raw=true"
+    },
+    {
+        "ady" : "Nauru",
+        "paytagt" : "Ýaren",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis we Nauru dilleri",
+        "ilat" : "10.824",
+        "meydan" : "20.98",
+        "telefonKodu" : "+674",
+        "pul" : "Awstraliýa Dollary (AUD)",
+        "yurtKodu" : "NRU",
+        "internet" : ".nr",
+        "latLang" : {
+            "latitude" : -0.5298952,
+            "langitude" : 166.9210186
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nru.jpg?raw=true"
+    },
+    {
+        "ady" : "Nepal",
+        "paytagt" : "Katmandu",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Nepal dili",
+        "ilat" : "29.136.808",
+        "meydan" : "147.516",
+        "telefonKodu" : "+977",
+        "pul" : "Nepal Rupisi (NPR)",
+        "yurtKodu" : "NEP",
+        "internet" : ".np",
+        "latLang" : {
+            "latitude" : 28.037775,
+            "langitude" : 82.0626752
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/npl.jpg?raw=true"
+    },
+    {
+        "ady" : "Niger",
+        "paytagt" : "Niamey",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "24.206.644",
+        "meydan" : "1.268.000",
+        "telefonKodu" : "+227",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "NIG",
+        "internet" : ".ne",
+        "latLang" : {
+            "latitude" : 17.6443881,
+            "langitude" : 3.9843051
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ner.jpg?raw=true"
+    },
+    {
+        "ady" : "Nigeriýa",
+        "paytagt" : "Abuja",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "206.139.589",
+        "meydan" : "923.768",
+        "telefonKodu" : "+234",
+        "pul" : "Nigeriýa Nairasy (NGN)",
+        "yurtKodu" : "NGR",
+        "internet" : ".ng",
+        "latLang" : {
+            "latitude" : 9.1407163,
+            "langitude" : 4.0329956
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nga.jpg?raw=true"
+    },
+    {
+        "ady" : "Nikaragua",
+        "paytagt" : "Managua",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "6.624.554",
+        "meydan" : "129.999",
+        "telefonKodu" : "+505",
+        "pul" : "Nikaragua Kordobasy (NIO)",
+        "yurtKodu" : "NCA",
+        "internet" : ".ni",
+        "latLang" : {
+            "latitude" : 12.8593516,
+            "langitude" : -87.2621572
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nic.jpg?raw=true"
+    },
+    {
+        "ady" : "Niue",
+        "paytagt" : "Alofi",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "1.626",
+        "meydan" : "261.5",
+        "telefonKodu" : "+683",
+        "pul" : "Täze Zelandiýa Dollary (NZD)",
+        "yurtKodu" : "NIU",
+        "internet" : ".nu",
+        "latLang" : {
+            "latitude" : -19.0540827,
+            "langitude" : -169.9322452
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/niu.jpg?raw=true"
+    },
+    {
+        "ady" : "Norfolk Adasy",
+        "paytagt" : "Kingston",
+        "sebit" : "Okean, Awstraliýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "2.302",
+        "meydan" : "34.6",
+        "telefonKodu" : "+672",
+        "pul" : "Täze Zelandiýa Dollary (NZD)",
+        "yurtKodu" : "NFK",
+        "internet" : ".nf",
+        "latLang" : {
+            "latitude" : -29.0651855,
+            "langitude" : 167.88594
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nfk.jpg?raw=true"
+    },
+    {
+        "ady" : "Norwegiýa",
+        "paytagt" : "Oslo",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Norweg dili",
+        "ilat" : "5.421.241",
+        "meydan" : "385.203",
+        "telefonKodu" : "+47",
+        "pul" : "Norweg Krony (NOK)",
+        "yurtKodu" : "NOR",
+        "internet" : ".no",
+        "latLang" : {
+            "latitude" : 63.4766116,
+            "langitude" : 0.1054821
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nor.jpg?raw=true"
+    },
+    {
+        "ady" : "Orta Afrika Respublikasy",
+        "paytagt" : "Bangui",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Fransuz we Sango dilleri",
+        "ilat" : "4.829.767",
+        "meydan" : "622.984",
+        "telefonKodu" : "+236",
+        "pul" : "Merkezi Afrika Franky (XAF)",
+        "yurtKodu" : "CAF",
+        "internet" : ".cf",
+        "latLang" : {
+            "latitude" : 5.324119,
+            "langitude" : 16.1423614
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/caf.jpg?raw=true"
+    },
+    {
+        "ady" : "Owganystan Yslam Respublikasy",
+        "paytagt" : "Kabul",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Peştu we Dari dilleri",
+        "ilat" : "38.928.346",
+        "meydan" : "652.237",
+        "telefonKodu" : "+93",
+        "pul" : "Owgan Afgany (AFN)",
+        "yurtKodu" : "AFG",
+        "internet" : ".af",
+        "latLang" : {
+            "latitude" : 33.8524176,
+            "langitude" : 63.2106559
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/afg.jpg?raw=true"
+    },
+    {
+        "ady" : "Özbegistan",
+        "paytagt" : "Daşkent",
+        "sebit" : "Merkezi Aziýa",
+        "dil" : "Özbek dili",
+        "ilat" : "33.469.203",
+        "meydan" : "448.978",
+        "telefonKodu" : "+998",
+        "pul" : "Özbegistan Somy (UZS)",
+        "yurtKodu" : "UZB",
+        "internet" : ".uz",
+        "latLang" : {
+            "latitude" : 41.3939897,
+            "langitude" : 60.573593
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/uzb.jpg?raw=true"
+    },
+    {
+        "ady" : "Palau",
+        "paytagt" : "Ngerulmud",
+        "sebit" : "Okean, Mikroneziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "18.094",
+        "meydan" : "458.4",
+        "telefonKodu" : "+680",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "PLW",
+        "internet" : ".pw",
+        "latLang" : {
+            "latitude" : 5.4348889,
+            "langitude" : 130.7996143
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/plw.jpg?raw=true"
+    },
+    {
+        "ady" : "Palestina",
+        "paytagt" : "Ramallah",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "5.101.414",
+        "meydan" : "6.220",
+        "telefonKodu" : "+970",
+        "pul" : "Ysraýyl Şekesi (ILS)",
+        "yurtKodu" : "PLE",
+        "internet" : ".ps",
+        "latLang" : {
+            "latitude" : 31.884666,
+            "langitude" : 34.331612
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pse.jpg?raw=true"
+    },
+    {
+        "ady" : "Panama",
+        "paytagt" : "Panama şäheri",
+        "sebit" : "Merkezi Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "4.314.767",
+        "meydan" : "75.517",
+        "telefonKodu" : "+507",
+        "pul" : "Panama Balboasy (PAB)",
+        "yurtKodu" : "PAN",
+        "internet" : ".pa",
+        "latLang" : {
+            "latitude" : 31.884666,
+            "langitude" : 34.331612
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pan.jpg?raw=true"
+    },
+    {
+        "ady" : "Papua Täze Gwineýa",
+        "paytagt" : "Port Moresby",
+        "sebit" : "Okean, Melaneziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "8.947.024",
+        "meydan" : "462.840",
+        "telefonKodu" : "+675",
+        "pul" : "Papua Kinasy (PGK)",
+        "yurtKodu" : "PNG",
+        "internet" : ".pg",
+        "latLang" : {
+            "latitude" : -7.1624889,
+            "langitude" : 144.1733499
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/png.jpg?raw=true"
+    },
+    {
+        "ady" : "Paraguwaý",
+        "paytagt" : "Asunsion",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan we Guarani dilleri",
+        "ilat" : "7.132.538",
+        "meydan" : "406.752",
+        "telefonKodu" : "+595",
+        "pul" : "Paraguwaý Guaranisy (PYG)",
+        "yurtKodu" : "PAR",
+        "internet" : ".py",
+        "latLang" : {
+            "latitude" : -23.3703636,
+            "langitude" : -62.94402
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pry.jpg?raw=true"
+    },
+    {
+        "ady" : "Peru",
+        "paytagt" : "Lima",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "32.971.854",
+        "meydan" : "1.285.000",
+        "telefonKodu" : "+51",
+        "pul" : "Peru Soly (PEN)",
+        "yurtKodu" : "PER",
+        "internet" : ".pe",
+        "latLang" : {
+            "latitude" : -9.1305506,
+            "langitude" : -84.0642748
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/per.jpg?raw=true"
+    },
+    {
+        "ady" : "Päkistan Yslam Respublikasy",
+        "paytagt" : "Yslamabat",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Iňlis we Urdu dilleri",
+        "ilat" : "220.892.340",
+        "meydan" : "881.913",
+        "telefonKodu" : "+92",
+        "pul" : "Päkistan Rupisi (PKR)",
+        "yurtKodu" : "PAK",
+        "internet" : ".pk",
+        "latLang" : {
+            "latitude" : 30.0496081,
+            "langitude" : 60.3322067
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pak.jpg?raw=true"
+    },
+    {
+        "ady" : "Polşa",
+        "paytagt" : "Warşawa",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Polýak dili",
+        "ilat" : "37.846.611",
+        "meydan" : "312.679",
+        "telefonKodu" : "+48",
+        "pul" : "Polşa Zloty (PLN)",
+        "yurtKodu" : "POL",
+        "internet" : ".pl",
+        "latLang" : {
+            "latitude" : 51.8684183,
+            "langitude" : 14.6489197
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pol.jpg?raw=true"
+    },
+    {
+        "ady" : "Portugaliýa",
+        "paytagt" : "Lissabon",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Portugal dili",
+        "ilat" : "10.196.709",
+        "meydan" : "92.212",
+        "telefonKodu" : "+351",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "POR",
+        "internet" : ".pt",
+        "latLang" : {
+            "latitude" : 37.0753174,
+            "langitude" : -23.654437
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/prt.jpg?raw=true"
+    },
+    {
+        "ady" : "Puerto Riko",
+        "paytagt" : "San Huan",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Ispan we Iňlis dilleri",
+        "ilat" : "2.860.853",
+        "meydan" : "13.800",
+        "telefonKodu" : "+1(787) we +1(939)",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "PUR",
+        "internet" : ".pr",
+        "latLang" : {
+            "latitude" : 18.1888945,
+            "langitude" : -67.0703602
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/pri.jpg?raw=true"
+    },
+    {
+        "ady" : "Ruanda",
+        "paytagt" : "Kigali",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Kinyarwanda, Iňlis we Fransuz dilleri",
+        "ilat" : "12.952.218",
+        "meydan" : "26.338",
+        "telefonKodu" : "+250",
+        "pul" : "Ruanda Franky (RWF)",
+        "yurtKodu" : "RWA",
+        "internet" : ".rw",
+        "latLang" : {
+            "latitude" : -1.9432848,
+            "langitude" : 28.7590534
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/rwa.jpg?raw=true"
+    },
+    {
+        "ady" : "Rumyniýa",
+        "paytagt" : "Buharest",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Rumyn dili",
+        "ilat" : "19.237.691",
+        "meydan" : "238.397",
+        "telefonKodu" : "+40",
+        "pul" : "Rumyniýa Leusy (RON)",
+        "yurtKodu" : "ROU",
+        "internet" : ".ro",
+        "latLang" : {
+            "latitude" : 45.8539747,
+            "langitude" : 20.5322954
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/rou.jpg?raw=true"
+    },
+    {
+        "ady" : "Russiýa Federasiýasy",
+        "paytagt" : "Moskwa",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Rus dili",
+        "ilat" : "145.934.462",
+        "meydan" : "17.100.000",
+        "telefonKodu" : "+7",
+        "pul" : "Rus Rubleýi (RUB)",
+        "yurtKodu" : "RUS",
+        "internet" : ".ru",
+        "latLang" : {
+            "latitude" : 49.7345534,
+            "langitude" : 68.7578162
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/rus.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Bartelemi",
+        "paytagt" : "Gustawiýa",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Fransuz dili",
+        "ilat" : "9.877",
+        "meydan" : "24",
+        "telefonKodu" : "+590",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "BLM",
+        "internet" : ".bl",
+        "latLang" : {
+            "latitude" : 17.914134,
+            "langitude" : -62.8800357
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/blm.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Helena",
+        "paytagt" : "Jamestown",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "6.077",
+        "meydan" : "121.7",
+        "telefonKodu" : "+290",
+        "pul" : "Saint Helena Funty (SHP)",
+        "yurtKodu" : "SHN",
+        "internet" : ".sh",
+        "latLang" : {
+            "latitude" : -15.9587411,
+            "langitude" : -5.785443
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/shn.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Kitts & Newis",
+        "paytagt" : "Basseterre",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "53.199",
+        "meydan" : "269.4",
+        "telefonKodu" : "+1(869)",
+        "pul" : "Karib Deňzi Dollary (XCD)",
+        "yurtKodu" : "SKN",
+        "internet" : ".kn",
+        "latLang" : {
+            "latitude" : 17.2495511,
+            "langitude" : -62.8366863
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/kna.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Lýusiýa",
+        "paytagt" : "Kastriýalar",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "183.627",
+        "meydan" : "617",
+        "telefonKodu" : "+1(758)",
+        "pul" : "Karib Deňzi Dollary (XCD)",
+        "yurtKodu" : "LCA",
+        "internet" : ".lc",
+        "latLang" : {
+            "latitude" : 13.9128128,
+            "langitude" : -61.1106027
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lca.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Pýer & Mikelon",
+        "paytagt" : "Saint-Pierre",
+        "sebit" : "Demirgazyk Amerika",
+        "dil" : "Fransuz dili",
+        "ilat" : "5.794",
+        "meydan" : "242",
+        "telefonKodu" : "+1(758)",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "SPM",
+        "internet" : ".pm",
+        "latLang" : {
+            "latitude" : 46.9577083,
+            "langitude" : -56.5330808
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/spm.jpg?raw=true"
+    },
+    {
+        "ady" : "Saint Winsent & Grenadinler",
+        "paytagt" : "Kingstown",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "110.940",
+        "meydan" : "389",
+        "telefonKodu" : "+1(784)",
+        "pul" : "Karib Deňzi Dollary (XCD)",
+        "yurtKodu" : "VIN",
+        "internet" : ".vc",
+        "latLang" : {
+            "latitude" : 12.9714329,
+            "langitude" : -61.5635953
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vct.jpg?raw=true"
+    },
+    {
+        "ady" : "Samoa",
+        "paytagt" : "Apia",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Samoan we Iňlis dilleri",
+        "ilat" : "198.414",
+        "meydan" : "2.842",
+        "telefonKodu" : "+685",
+        "pul" : "Samoan Talasy (WST)",
+        "yurtKodu" : "SAM",
+        "internet" : ".ws",
+        "latLang" : {
+            "latitude" : -13.7794943,
+            "langitude" : -172.3743828
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/wsm.jpg?raw=true"
+    },
+    {
+        "ady" : "San Marino",
+        "paytagt" : "San Marino şäheri",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Italyan dili",
+        "ilat" : "33.931",
+        "meydan" : "61.2",
+        "telefonKodu" : "+378",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "SMR",
+        "internet" : ".sm",
+        "latLang" : {
+            "latitude" : 43.9428566,
+            "langitude" : 12.3900534
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/smr.jpg?raw=true"
+    },
+    {
+        "ady" : "Sao Tome & Prinsip",
+        "paytagt" : "Sao Tome",
+        "sebit" : "Merkezi Afrika",
+        "dil" : "Portugal dili",
+        "ilat" : "219.159",
+        "meydan" : "1.001",
+        "telefonKodu" : "+239",
+        "pul" : "Sao Tome & Prinsip Dobrasy (STD)",
+        "yurtKodu" : "STP",
+        "internet" : ".st",
+        "latLang" : {
+            "latitude" : 0.8271999,
+            "langitude" : 6.4549691
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/stp.jpg?raw=true"
+    },
+    {
+        "ady" : "Saud Arabystan Patşalygy",
+        "paytagt" : "Riýad",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "34.813.871",
+        "meydan" : "2.150.000",
+        "telefonKodu" : "+966",
+        "pul" : "Saud Arabystan Riyaly (SAR)",
+        "yurtKodu" : "SAU",
+        "internet" : ".sa",
+        "latLang" : {
+            "latitude" : 23.8139854,
+            "langitude" : 36.0457712
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sau.jpg?raw=true"
+    },
+    {
+        "ady" : "Senegal",
+        "paytagt" : "Dakar",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "16.743.927",
+        "meydan" : "196.712",
+        "telefonKodu" : "+221",
+        "pul" : "Günbatar Afrika franky (XOF)",
+        "yurtKodu" : "SEN",
+        "internet" : ".sn",
+        "latLang" : {
+            "latitude" : 14.3043795,
+            "langitude" : -17.1198666
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sen.jpg?raw=true"
+    },
+    {
+        "ady" : "Serbiýa",
+        "paytagt" : "Belgrad",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Serb dili",
+        "ilat" : "8.737.371",
+        "meydan" : "88.361",
+        "telefonKodu" : "+381",
+        "pul" : "Serbiýa Dinary (RSD)",
+        "yurtKodu" : "SRB",
+        "internet" : ".rs",
+        "latLang" : {
+            "latitude" : 44.1888188,
+            "langitude" : 18.6794416
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/srb.jpg?raw=true"
+    },
+    {
+        "ady" : "Seýşel Adalary",
+        "paytagt" : "Wiktoriýa",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Fransuz we Iňlis dilleri",
+        "ilat" : "98.347",
+        "meydan" : "459",
+        "telefonKodu" : "+248",
+        "pul" : "Seýşello Rupisi (SCR)",
+        "yurtKodu" : "SEY",
+        "internet" : ".sc",
+        "latLang" : {
+            "latitude" : -7.085004,
+            "langitude" : 48.9432934
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/syc.jpg?raw=true"
+    },
+    {
+        "ady" : "Sierra Leone",
+        "paytagt" : "Freetown",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "7.976.983",
+        "meydan" : "71.740",
+        "telefonKodu" : "+232",
+        "pul" : "Sierra Leone Leonesy (SLL)",
+        "yurtKodu" : "SLE",
+        "internet" : ".sl",
+        "latLang" : {
+            "latitude" : 8.4318535,
+            "langitude" : -13.0140554
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sle.jpg?raw=true"
+    },
+    {
+        "ady" : "Singapur",
+        "paytagt" : "Singapur",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Iňlis, Malaý, Tamil we Hytaý dilleri",
+        "ilat" : "5.850.342",
+        "meydan" : "721.5",
+        "telefonKodu" : "+65",
+        "pul" : "Singapur Dollary (SGD)",
+        "yurtKodu" : "SIN",
+        "internet" : ".sg",
+        "latLang" : {
+            "latitude" : 1.3480146,
+            "langitude" : 103.687134
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sgp.jpg?raw=true"
+    },
+    {
+        "ady" : "Sint Maarten",
+        "paytagt" : "Philipsburg",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis we Golland dilleri",
+        "ilat" : "42.876",
+        "meydan" : "34",
+        "telefonKodu" : "+1(721)",
+        "pul" : "Golland Antillean Gildiýasy (ANG)",
+        "yurtKodu" : "SXM",
+        "internet" : ".sx",
+        "latLang" : {
+            "latitude" : 18.0477833,
+            "langitude" : -63.0921624
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sxm.jpg?raw=true"
+    },
+    {
+        "ady" : "Siriýa",
+        "paytagt" : "Damask",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "17.500.658",
+        "meydan" : "185.180",
+        "telefonKodu" : "+963",
+        "pul" : "Siriýa Funty (SYP)",
+        "yurtKodu" : "SYR",
+        "internet" : ".sy",
+        "latLang" : {
+            "latitude" : 34.7794031,
+            "langitude" : 35.6063678
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/syr.jpg?raw=true"
+    },
+    {
+        "ady" : "Slowakiýa",
+        "paytagt" : "Bratislawa",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Slowak dili",
+        "ilat" : "5.459.642",
+        "meydan" : "49.035",
+        "telefonKodu" : "+421",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "SVK",
+        "internet" : ".sk",
+        "latLang" : {
+            "latitude" : 48.5870293,
+            "langitude" : 17.472938
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/svk.jpg?raw=true"
+    },
+    {
+        "ady" : "Sloweniýa",
+        "paytagt" : "Lýublyana",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Slowen dili",
+        "ilat" : "2.078.938",
+        "meydan" : "20.271",
+        "telefonKodu" : "+386",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "SLO",
+        "internet" : ".si",
+        "latLang" : {
+            "latitude" : 46.0930355,
+            "langitude" : 13.6071051
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/svn.jpg?raw=true"
+    },
+    {
+        "ady" : "Solomon Adalary",
+        "paytagt" : "Honiara",
+        "sebit" : "Okean, Melaneziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "686.884",
+        "meydan" : "28.399",
+        "telefonKodu" : "+677",
+        "pul" : "Solomon Adalary Dollary (SBD)",
+        "yurtKodu" : "SOL",
+        "internet" : ".sb",
+        "latLang" : {
+            "latitude" : -9.4179651,
+            "langitude" : 159.3358423
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/slb.jpg?raw=true"
+    },
+    {
+        "ady" : "Somali",
+        "paytagt" : "Mogadişu",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Somali we Arap dilleri",
+        "ilat" : "15.893.222",
+        "meydan" : "637.655",
+        "telefonKodu" : "+252",
+        "pul" : "Somali Şillingi (SOS)",
+        "yurtKodu" : "SOM",
+        "internet" : ".so",
+        "latLang" : {
+            "latitude" : 5.2310274,
+            "langitude" : 41.8058511
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/som.jpg?raw=true"
+    },
+    {
+        "ady" : "Sudan",
+        "paytagt" : "Hartum",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Iňlis we Arap dilleri",
+        "ilat" : "43.849.260",
+        "meydan" : "1.886.000",
+        "telefonKodu" : "+249",
+        "pul" : "Sudanyň Funty (SDG)",
+        "yurtKodu" : "SUD",
+        "internet" : ".sd",
+        "latLang" : {
+            "latitude" : 15.5996674,
+            "langitude" : 21.2160555
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sdn.jpg?raw=true"
+    },
+    {
+        "ady" : "Surinam",
+        "paytagt" : "Paramaribo",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Golland dili",
+        "ilat" : "586.632",
+        "meydan" : "163.821",
+        "telefonKodu" : "+249",
+        "pul" : "Surinam Dollary (SRD)",
+        "yurtKodu" : "SUR",
+        "internet" : ".sr",
+        "latLang" : {
+            "latitude" : 3.9804064,
+            "langitude" : -58.2513017
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sur.jpg?raw=true"
+    },
+    {
+        "ady" : "Swazilend",
+        "paytagt" : "Lobamba",
+        "sebit" : "Günorta Afrika",
+        "dil" : "Iňlis we Swati dilleri",
+        "ilat" : "1.132.657",
+        "meydan" : "17.364",
+        "telefonKodu" : "+268",
+        "pul" : "Swazi Lilangeni (SZL)",
+        "yurtKodu" : "SWZ",
+        "internet" : ".sz",
+        "latLang" : {
+            "latitude" : -26.5165659,
+            "langitude" : 30.9023092
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/swz.jpg?raw=true"
+    },
+    {
+        "ady" : "Şotlandiýa",
+        "paytagt" : "Edinburg",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Iňlis we Şotland dilleri",
+        "ilat" : "5.463.300",
+        "meydan" : "80.077",
+        "telefonKodu" : "+44",
+        "pul" : "Iňlis Funty (GBP)",
+        "yurtKodu" : "SCT",
+        "internet" : ".uk",
+        "latLang" : {
+            "latitude" : 57.6676871,
+            "langitude" : -9.1709656
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/sct.jpg?raw=true"
+    },
+    {
+        "ady" : "Şri-Lanka",
+        "paytagt" : "Kolombo",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Sinhal we Tamil dilleri",
+        "ilat" : "21.413.249",
+        "meydan" : "65.610",
+        "telefonKodu" : "+94",
+        "pul" : "Şri-Lanka Rupisy (LKR)",
+        "yurtKodu" : "SRI",
+        "internet" : ".lk",
+        "latLang" : {
+            "latitude" : 7.8517305,
+            "langitude" : 78.4615052
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/lka.jpg?raw=true"
+    },
+    {
+        "ady" : "Şwesiýa",
+        "paytagt" : "Stokgolm",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Şwes dili",
+        "ilat" : "10.099.265",
+        "meydan" : "450.295",
+        "telefonKodu" : "+46",
+        "pul" : "Şwesiýa Kronasy (SEK)",
+        "yurtKodu" : "SWE",
+        "internet" : ".se",
+        "latLang" : {
+            "latitude" : 62.9453859,
+            "langitude" : 10.5505856
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/swe.jpg?raw=true"
+    },
+    {
+        "ady" : "Şweýsariýa",
+        "paytagt" : "Bern",
+        "sebit" : "Günbatar Ýewropa",
+        "dil" : "Şweýsar dili",
+        "ilat" : "8.654.622",
+        "meydan" : "41.285",
+        "telefonKodu" : "+41",
+        "pul" : "Şweýsariýa Franky (CHF)",
+        "yurtKodu" : "SWE",
+        "internet" : ".se",
+        "latLang" : {
+            "latitude" : 62.9453859,
+            "langitude" : 10.5505856
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/che.jpg?raw=true"
+    },
+    {
+        "ady" : "Tanzaniýa",
+        "paytagt" : "Dodoma",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Suwaýili we Iňlis dilleri",
+        "ilat" : "59.734.218",
+        "meydan" : "945.087",
+        "telefonKodu" : "+255",
+        "pul" : "Tanzaniýaly Şilling (TZS)",
+        "yurtKodu" : "TAN",
+        "internet" : ".tz",
+        "latLang" : {
+            "latitude" : -6.3533569,
+            "langitude" : 30.4917423
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tza.jpg?raw=true"
+    },
+    {
+        "ady" : "Taýland",
+        "paytagt" : "Bangkok",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Taý dili",
+        "ilat" : "69.799.978",
+        "meydan" : "513.120",
+        "telefonKodu" : "+66",
+        "pul" : "Taý Bahty (THB)",
+        "yurtKodu" : "THA",
+        "internet" : ".th",
+        "latLang" : {
+            "latitude" : 13.0003076,
+            "langitude" : 96.992706
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tha.jpg?raw=true"
+    },
+    {
+        "ady" : "Taýwan",
+        "paytagt" : "Taýpeý",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Hytaý dili",
+        "ilat" : "23.816.775",
+        "meydan" : "36.193",
+        "telefonKodu" : "+886",
+        "pul" : "Täze Taýwan Dollary (TWD)",
+        "yurtKodu" : "TPE",
+        "internet" : ".tw",
+        "latLang" : {
+            "latitude" : 23.6619497,
+            "langitude" : 119.8744927
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/twn.jpg?raw=true"
+    },
+    {
+        "ady" : "Täjigistan",
+        "paytagt" : "Duşanbe",
+        "sebit" : "Merkezi Aziýa",
+        "dil" : "Täjik dili",
+        "ilat" : "9.537.645",
+        "meydan" : "143.100",
+        "telefonKodu" : "+992",
+        "pul" : "Täjigistan Somony (TJS)",
+        "yurtKodu" : "TJK",
+        "internet" : ".tj",
+        "latLang" : {
+            "latitude" : 38.8037276,
+            "langitude" : 69.1033911
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tjk.jpg?raw=true"
+    },
+    {
+        "ady" : "Täze Kaledoniýa",
+        "paytagt" : "Noumea",
+        "sebit" : "Okean, Melaneziýa",
+        "dil" : "Fransuz dili",
+        "ilat" : "285.498",
+        "meydan" : "18.575",
+        "telefonKodu" : "+687",
+        "pul" : "CFP Franky (XPF)",
+        "yurtKodu" : "NCL",
+        "internet" : ".nc",
+        "latLang" : {
+            "latitude" : -21.1524542,
+            "langitude" : 164.7446474
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ncl.jpg?raw=true"
+    },
+    {
+        "ady" : "Täze Zelandiýa",
+        "paytagt" : "Wellington",
+        "sebit" : "Okean, Täze Zelandiýa",
+        "dil" : "Iňlis we Maori dilleri",
+        "ilat" : "4.822.233",
+        "meydan" : "268.021",
+        "telefonKodu" : "+64",
+        "pul" : "Täze Zelandiýa Dollary (NZD)",
+        "yurtKodu" : "NZL",
+        "internet" : ".nz",
+        "latLang" : {
+            "latitude" : -44.8552829,
+            "langitude" : 165.7107843
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/nzl.jpg?raw=true"
+    },
+    {
+        "ady" : "Togo",
+        "paytagt" : "Lome",
+        "sebit" : "Günbatar Afrika",
+        "dil" : "Fransuz dili",
+        "ilat" : "8.278.724",
+        "meydan" : "56.785",
+        "telefonKodu" : "+228",
+        "pul" : "Günbatar Afrika Franky (XOF)",
+        "yurtKodu" : "TOG",
+        "internet" : ".tg",
+        "latLang" : {
+            "latitude" : 8.6039012,
+            "langitude" : -1.4121107
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tgo.jpg?raw=true"
+    },
+    {
+        "ady" : "Tokelau",
+        "paytagt" : "Fakaofo",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "1.357",
+        "meydan" : "10",
+        "telefonKodu" : "+690",
+        "pul" : "Täze Zelandiýa Dollary (NZD)",
+        "yurtKodu" : "TKL",
+        "internet" : ".tk",
+        "latLang" : {
+            "latitude" : -9.2187966,
+            "langitude" : -171.8678974
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tkl.jpg?raw=true"
+    },
+    {
+        "ady" : "Tonga",
+        "paytagt" : "Nuku-Alofa",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis we Tonga dilleri",
+        "ilat" : "105.695",
+        "meydan" : "747",
+        "telefonKodu" : "+676",
+        "pul" : "Tongan Paangasy (TOP)",
+        "yurtKodu" : "TGA",
+        "internet" : ".to",
+        "latLang" : {
+            "latitude" : -19.9186453,
+            "langitude" : -175.6787448
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ton.jpg?raw=true"
+    },
+    {
+        "ady" : "Trinidad we Tobago",
+        "paytagt" : "Port of Spain",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "1.399.488",
+        "meydan" : "5.131",
+        "telefonKodu" : "+1(868)",
+        "pul" : "Trinidad we Tobago Dollary (TTD)",
+        "yurtKodu" : "TTO",
+        "internet" : ".tt",
+        "latLang" : {
+            "latitude" : 10.7069062,
+            "langitude" : -62.4972329
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tto.jpg?raw=true"
+    },
+    {
+        "ady" : "Tunis",
+        "paytagt" : "Tunis",
+        "sebit" : "Demirgazyk Afrika",
+        "dil" : "Arap dili",
+        "ilat" : "11.818.619",
+        "meydan" : "163.610",
+        "telefonKodu" : "+216",
+        "pul" : "Tunis Dinary (TND)",
+        "yurtKodu" : "TUN",
+        "internet" : ".tn",
+        "latLang" : {
+            "latitude" : 33.8004294,
+            "langitude" : 5.068609
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tun.jpg?raw=true"
+    },
+    {
+        "ady" : "Tuwalu",
+        "paytagt" : "Funafuti",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Iňlis dili",
+        "ilat" : "11.792",
+        "meydan" : "25.9",
+        "telefonKodu" : "+688",
+        "pul" : "Awstraliýa Dollary (AUD)",
+        "yurtKodu" : "TUV",
+        "internet" : ".tv",
+        "latLang" : {
+            "latitude" : -7.2856288,
+            "langitude" : 176.7556959
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tuv.jpg?raw=true"
+    },
+    {
+        "ady" : "Türkiýe",
+        "paytagt" : "Ankara",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Türk dili",
+        "ilat" : "83.154.997",
+        "meydan" : "783.562",
+        "telefonKodu" : "+90",
+        "pul" : "Türk Lirasy (TRY)",
+        "yurtKodu" : "TUR",
+        "internet" : ".tr",
+        "latLang" : {
+            "latitude" : 39.0014506,
+            "langitude" : 30.6868348
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tur.jpg?raw=true"
+    },
+    {
+        "ady" : "Türkmenistan",
+        "paytagt" : "Aşgabat",
+        "sebit" : "Merkezi Aziýa",
+        "dil" : "Türkmen dili",
+        "ilat" : "6.031.200",
+        "meydan" : "491.210",
+        "telefonKodu" : "+993",
+        "pul" : "Türkmenistan Manady (TMT)",
+        "yurtKodu" : "TKM",
+        "internet" : ".tm",
+        "latLang" : {
+            "latitude" : 38.8776843,
+            "langitude" : 55.0211432
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tkm.jpg?raw=true"
+    },
+    {
+        "ady" : "Türkler we Kaýkos adalary",
+        "paytagt" : "Kokbern şäheri",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "38.717",
+        "meydan" : "417",
+        "telefonKodu" : "+1(649)",
+        "pul" : "Amerikan Dollary (USD)",
+        "yurtKodu" : "TCA",
+        "internet" : ".tc",
+        "latLang" : {
+            "latitude" : 21.6447043,
+            "langitude" : -72.2590188
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/tca.jpg?raw=true"
+    },
+    {
+        "ady" : "Uels",
+        "paytagt" : "Kardiff",
+        "sebit" : "Demirgazyk Ýewropa",
+        "dil" : "Uels we Iňlis dilleri",
+        "ilat" : "3.153.000",
+        "meydan" : "20.779",
+        "telefonKodu" : "+44",
+        "pul" : "Iňlis Funty (GBP)",
+        "yurtKodu" : "WLS",
+        "internet" : ".uk",
+        "latLang" : {
+            "latitude" : 52.4197376,
+            "langitude" : -5.0242557
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/wls.jpg?raw=true"
+    },
+    {
+        "ady" : "Uganda",
+        "paytagt" : "Kampala",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Iňlis we Suwaýili dilleri",
+        "ilat" : "45.741.007",
+        "meydan" : "241.037",
+        "telefonKodu" : "+256",
+        "pul" : "Uganda Şillingi (UGX)",
+        "yurtKodu" : "UGA",
+        "internet" : ".ug",
+        "latLang" : {
+            "latitude" : 1.3671057,
+            "langitude" : 30.0586288
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/uga.jpg?raw=true"
+    },
+    {
+        "ady" : "Ukraina",
+        "paytagt" : "Kiýew",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Ukrain dili",
+        "ilat" : "43.733.762",
+        "meydan" : "603.628",
+        "telefonKodu" : "+380",
+        "pul" : "Ukraina Grywniýasy (UAH)",
+        "yurtKodu" : "UKR",
+        "internet" : ".ua",
+        "latLang" : {
+            "latitude" : 48.5182642,
+            "langitude" : 26.5904204
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ukr.jpg?raw=true"
+    },
+    {
+        "ady" : "Urugwaý",
+        "paytagt" : "Montewideo",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "3.473.730",
+        "meydan" : "176.215",
+        "telefonKodu" : "+598",
+        "pul" : "Urugwaý Pesody (UYU)",
+        "yurtKodu" : "URU",
+        "internet" : ".uy",
+        "latLang" : {
+            "latitude" : -32.6005596,
+            "langitude" : -58.0283107
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ury.jpg?raw=true"
+    },
+    {
+        "ady" : "Umman",
+        "paytagt" : "Maskat",
+        "sebit" : "Günorta Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "5.106.626",
+        "meydan" : "309.500",
+        "telefonKodu" : "+968",
+        "pul" : "Umman Riýaly (OMR)",
+        "yurtKodu" : "OMA",
+        "internet" : ".om",
+        "latLang" : {
+            "latitude" : 21.3866305,
+            "langitude" : 51.6562476
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/omn.jpg?raw=true"
+    },
+    {
+        "ady" : "Wallis we Futuna",
+        "paytagt" : "Mata-Utu",
+        "sebit" : "Okean, Polineziýa",
+        "dil" : "Fransuz dili",
+        "ilat" : "11.239",
+        "meydan" : "142.4",
+        "telefonKodu" : "+681",
+        "pul" : "CFP Franky (XPF)",
+        "yurtKodu" : "WLF",
+        "internet" : ".wf",
+        "latLang" : {
+            "latitude" : -14.0066061,
+            "langitude" : -177.7637564
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/wlf.jpg?raw=true"
+    },
+    {
+        "ady" : "Wanuatu",
+        "paytagt" : "Port Wila",
+        "sebit" : "Okean, Melaneziýa",
+        "dil" : "Bislama, Iňlis we Fransuz dilleri",
+        "ilat" : "307.145",
+        "meydan" : "12.199",
+        "telefonKodu" : "+678",
+        "pul" : "Wanuatu Watusy (VUV)",
+        "yurtKodu" : "VAN",
+        "internet" : ".vu",
+        "latLang" : {
+            "latitude" : -16.6222796,
+            "langitude" : 163.7835577
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vut.jpg?raw=true"
+    },
+    {
+        "ady" : "Watikan",
+        "paytagt" : "Watikan",
+        "sebit" : "Günorta Ýewropa",
+        "dil" : "Latyn, Italýan, Fransuz we Nemes dilleri",
+        "ilat" : "801",
+        "meydan" : "49",
+        "telefonKodu" : "+379",
+        "pul" : "Ýewro (EUR)",
+        "yurtKodu" : "VAT",
+        "internet" : ".va",
+        "latLang" : {
+            "latitude" : 41.9026435,
+            "langitude" : 12.4505375
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vat.jpg?raw=true"
+    },
+    {
+        "ady" : "Wenesuela",
+        "paytagt" : "Karakas",
+        "sebit" : "Günorta Amerika",
+        "dil" : "Ispan dili",
+        "ilat" : "28.435.940",
+        "meydan" : "916.445",
+        "telefonKodu" : "+58",
+        "pul" : "Wenesuela Boliwary (VEF)",
+        "yurtKodu" : "VEN",
+        "internet" : ".ve",
+        "latLang" : {
+            "latitude" : 6.0875225,
+            "langitude" : -70.1823545
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/ven.jpg?raw=true"
+    },
+    {
+        "ady" : "Wengriýa",
+        "paytagt" : "Budapeşt",
+        "sebit" : "Gündogar Ýewropa",
+        "dil" : "Wenger dili",
+        "ilat" : "9.660.351",
+        "meydan" : "93.030",
+        "telefonKodu" : "+36",
+        "pul" : "Wenger Forinti (HUF)",
+        "yurtKodu" : "HUN",
+        "internet" : ".hu",
+        "latLang" : {
+            "latitude" : 47.0257166,
+            "langitude" : 17.3915896
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/hun.jpg?raw=true"
+    },
+    {
+        "ady" : "Wirgin adalary (ABŞ)",
+        "paytagt" : "Şarlot Amali (Charlotte Amalie)",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "104.425",
+        "meydan" : "346.4",
+        "telefonKodu" : "+1(340)",
+        "pul" : "Amerika Dollary (USD)",
+        "yurtKodu" : "ISV",
+        "internet" : ".vi",
+        "latLang" : {
+            "latitude" : 18.0567211,
+            "langitude" : -65.0729302
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vir.jpg?raw=true"
+    },
+    {
+        "ady" : "Wirgin adalary (Britaniýa)",
+        "paytagt" : "Road Town",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "30.231",
+        "meydan" : "153",
+        "telefonKodu" : "+1(284)",
+        "pul" : "Amerika Dollary (USD)",
+        "yurtKodu" : "IVB",
+        "internet" : ".vg",
+        "latLang" : {
+            "latitude" : 18.5217935,
+            "langitude" : -64.8515439
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vgb.jpg?raw=true"
+    },
+    {
+        "ady" : "Wýetnam",
+        "paytagt" : "Hanoý",
+        "sebit" : "Günorta-Gündogar Aziýa",
+        "dil" : "Wýetnam dili",
+        "ilat" : "97.338.579",
+        "meydan" : "331.212",
+        "telefonKodu" : "+84",
+        "pul" : "Wýetnam Dongy (VND)",
+        "yurtKodu" : "VIE",
+        "internet" : ".vn",
+        "latLang" : {
+            "latitude" : 16.0646893,
+            "langitude" : 101.7648307
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/vnm.jpg?raw=true"
+    },
+    {
+        "ady" : "Yrak",
+        "paytagt" : "Bagdat",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap we Kürt dilleri",
+        "ilat" : "40.222.493",
+        "meydan" : "437.072",
+        "telefonKodu" : "+964",
+        "pul" : "Yrak Dinary (IQD)",
+        "yurtKodu" : "IRQ",
+        "internet" : ".iq",
+        "latLang" : {
+            "latitude" : 33.1401745,
+            "langitude" : 39.2220124
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/irq.jpg?raw=true"
+    },
+    {
+        "ady" : "Ysraýyl",
+        "paytagt" : "Ýerusalim",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Ýewreý we Arap dilleri",
+        "ilat" : "8.655.535",
+        "meydan" : "22.145",
+        "telefonKodu" : "+972",
+        "pul" : "Ysraýyl Täze Şekeli (ILS)",
+        "yurtKodu" : "ISR",
+        "internet" : ".il",
+        "latLang" : {
+            "latitude" : 31.3867115,
+            "langitude" : 32.8380848
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/isr.jpg?raw=true"
+    },
+    {
+        "ady" : "Ýamaýka",
+        "paytagt" : "Kingston",
+        "sebit" : "Amerika, Karib deňzi",
+        "dil" : "Iňlis dili",
+        "ilat" : "2.961.167",
+        "meydan" : "10.992",
+        "telefonKodu" : "+1(876)",
+        "pul" : "Ýamaýka Dollary (JMD)",
+        "yurtKodu" : "JAM",
+        "internet" : ".jm",
+        "latLang" : {
+            "latitude" : 18.1322644,
+            "langitude" : -77.7452531
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/jam.jpg?raw=true"
+    },
+    {
+        "ady" : "Ýaponýa",
+        "paytagt" : "Tokýa",
+        "sebit" : "Gündogar Aziýa",
+        "dil" : "Ýapon dili",
+        "ilat" : "126.476.461",
+        "meydan" : "377.915",
+        "telefonKodu" : "+81",
+        "pul" : "Ýapon Ýeni (JPY)",
+        "yurtKodu" : "JPN",
+        "internet" : ".jp",
+        "latLang" : {
+            "latitude" : 40.8641288,
+            "langitude" : 129.8718637
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/jpn.jpg?raw=true"
+    },
+    {
+        "ady" : "Ýemen",
+        "paytagt" : "Sana",
+        "sebit" : "Günbatar Aziýa",
+        "dil" : "Arap dili",
+        "ilat" : "29.825.964",
+        "meydan" : "527.968",
+        "telefonKodu" : "+967",
+        "pul" : "Ýemen Riýaly (YER)",
+        "yurtKodu" : "YEM",
+        "internet" : ".ye",
+        "latLang" : {
+            "latitude" : 15.3533862,
+            "langitude" : 43.6965457
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/yem.jpg?raw=true"
+    },
+    {
+        "ady" : "Zambiýa",
+        "paytagt" : "Lusaka",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Iňlis dili",
+        "ilat" : "18.383.955",
+        "meydan" : "752.618",
+        "telefonKodu" : "+260",
+        "pul" : "Zambiýa Kwaçasy (ZMW)",
+        "yurtKodu" : "ZAM",
+        "internet" : ".zm",
+        "latLang" : {
+            "latitude" : -14.3877601,
+            "langitude" : 24.502707
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/zmb.jpg?raw=true"
+    },
+    {
+        "ady" : "Zimbabwe",
+        "paytagt" : "Harare",
+        "sebit" : "Gündogar Afrika",
+        "dil" : "Iňlis, Şona we Ndebele dili",
+        "ilat" : "14.862.924",
+        "meydan" : "390.757",
+        "telefonKodu" : "+263",
+        "pul" : "Iňlis Funty (GBP), Amerikan Dollary (USD) we Günorta Afrika Randy (ZAR) ...",
+        "yurtKodu" : "ZIM",
+        "internet" : ".zw",
+        "latLang" : {
+            "latitude" : -18.940497,
+            "langitude" : 27.2712456
+        },
+        "flag" : "https://github.com/Bayramow/DataApiService/blob/master/YurtlarApi/flagCountries/zwe.jpg?raw=true"
+    }
+]
